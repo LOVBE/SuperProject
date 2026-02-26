@@ -1,0 +1,1547 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\services\\feedbackservice\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\services\\feedbackservice\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\services\\feedbackservice\\ifeedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\services\\feedbackservice\\ifeedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\daos\\feedbackdao\\feedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\daos\\feedbackdao\\feedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\daos\\coursedao\\coursedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\daos\\coursedao\\coursedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\controllers\\profile\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\profile\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\controllers\\payment\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\payment\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\controllers\\googledrive\\googledrivecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\googledrive\\googledrivecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\controllers\\common\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\common\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\controllers\\aiexam\\aiwritingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\aiexam\\aiwritingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\controllers\\teacher\\teacherfeedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\teacher\\teacherfeedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\services\\aiexam\\aiquizservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\services\\aiexam\\aiquizservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\controllers\\teacher\\teachercoursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\teacher\\teachercoursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\controllers\\aiexam\\aispeakingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\aiexam\\aispeakingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\daos\\feedbackdao\\ifeedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\daos\\feedbackdao\\ifeedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\services\\aiexam\\iaiquizservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\services\\aiexam\\iaiquizservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\controllers\\aiexam\\aiquizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\aiexam\\aiquizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\externalservices\\payosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\externalservices\\payosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\externalservices\\googledriveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\externalservices\\googledriveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\externalservices\\cloudflareservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\externalservices\\cloudflareservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\externalservices\\aiwritingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\externalservices\\aiwritingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\externalservices\\aispeakingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\externalservices\\aispeakingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\externalservices\\aiquizexternal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\externalservices\\aiquizexternal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\daos\\aidao\\aireviewdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\daos\\aidao\\aireviewdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\daos\\aidao\\aipromptdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\daos\\aidao\\aipromptdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\daos\\aidao\\iaireviewdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\daos\\aidao\\iaireviewdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\controllers\\admin\\coursemanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\admin\\coursemanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\controllers\\admin\\adminflashcardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\admin\\adminflashcardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\daos\\aidao\\iaipromptdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\daos\\aidao\\iaipromptdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\controllers\\teacher\\teacherflashcardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\teacher\\teacherflashcardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\daos\\flashcarddao\\flashcardprogressdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\daos\\flashcarddao\\flashcardprogressdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\controllers\\admin\\adminfeedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\admin\\adminfeedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\controllers\\teacher\\teacherreviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\teacher\\teacherreviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\controllers\\flashcard\\flashcardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\flashcard\\flashcardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\dtos\\score\\createteacherreviewrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\dtos\\score\\createteacherreviewrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\dtos\\score\\teacherreviewrespone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\dtos\\score\\teacherreviewrespone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\controllers\\teacher\\teacherinformationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\teacher\\teacherinformationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\daos\\scoredao\\scoredao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\daos\\scoredao\\scoredao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\models\\answeraireview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\models\\answeraireview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\models\\answerteacherreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\models\\answerteacherreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\controllers\\auth\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\auth\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\controllers\\quiz\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\quiz\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\controllers\\auth\\membershipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\auth\\membershipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\daos\\flashcarddao\\flashcarddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\daos\\flashcarddao\\flashcarddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\daos\\scoredao\\iteacherscoredao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\daos\\scoredao\\iteacherscoredao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\daos\\flashcarddao\\iflashcardprogressdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\daos\\flashcarddao\\iflashcardprogressdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\daos\\membershipdao\\membershipdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\daos\\membershipdao\\membershipdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\daos\\flashcarddao\\iflashcarddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\daos\\flashcarddao\\iflashcarddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\daos\\aidao\\aisubmissiondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\daos\\aidao\\aisubmissiondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\models\\aisubmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\models\\aisubmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\daos\\aidao\\iaisubmissiondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\daos\\aidao\\iaisubmissiondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\daos\\scoredao\\teacherscoredao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\daos\\scoredao\\teacherscoredao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\AppData\\Roaming\\Microsoft\\UserSecrets\\9a3c482b-c937-496c-b973-31db6beae285\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\daos\\paymentdao\\paymentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\daos\\paymentdao\\paymentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\dtos\\flashcard\\flashcardsetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\dtos\\flashcard\\flashcardsetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\daos\\quizdao\\quizdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\daos\\quizdao\\quizdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\controllers\\flashcard\\flashcardprogresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\flashcard\\flashcardprogresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\dtos\\payment\\createpaymentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\dtos\\payment\\createpaymentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\dtos\\progress\\flashcardprogressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\dtos\\progress\\flashcardprogressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\dtos\\progress\\flashcardhistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\dtos\\progress\\flashcardhistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\dtos\\progress\\createflashcardhisstoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\dtos\\progress\\createflashcardhisstoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\dtos\\progress\\updateflashcardprogressrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\dtos\\progress\\updateflashcardprogressrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\dtos\\progress\\learnflashcardrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\dtos\\progress\\learnflashcardrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\models\\flashcardhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\models\\flashcardhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\controllers\\course\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\course\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\controllers\\admin\\quizadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\admin\\quizadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\controllers\\public\\plancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\public\\plancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\dtos\\aitest\\aispeakingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\dtos\\aitest\\aispeakingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\models\\aiprompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\models\\aiprompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\dtos\\aitest\\aiwritingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\dtos\\aitest\\aiwritingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\models\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\models\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\models\\flashcardprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\models\\flashcardprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\models\\attempt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\models\\attempt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\data\\emtdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\data\\emtdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\models\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\models\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\models\\flashcardset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\models\\flashcardset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\models\\flashcarditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\models\\flashcarditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\controllers\\admin\\scoremanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\admin\\scoremanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\models\\coursechapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\models\\coursechapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\models\\requestlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\models\\requestlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\models\\subscriptionplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\models\\subscriptionplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\daos\\subscriptionplandao\\subscriptionplandao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\daos\\subscriptionplandao\\subscriptionplandao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\daos\\subscriptionplandao\\isubscriptionplandao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\daos\\subscriptionplandao\\isubscriptionplandao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\models\\coursevideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\models\\coursevideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\controllers\\video\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\video\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\daos\\membershipdao\\imembershipdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\daos\\membershipdao\\imembershipdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|c:\\users\\dell\\group1_swp391_fptu\\server\\emt_api\\emt_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\emt_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Program.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Program.cs",
+              "RelativeToolTip": "EMT_API\\Program.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAQwJwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:10:17.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FeedbackService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Services\\FeedbackService\\FeedbackService.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Services\\FeedbackService\\FeedbackService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Services\\FeedbackService\\FeedbackService.cs",
+              "RelativeToolTip": "EMT_API\\Services\\FeedbackService\\FeedbackService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T07:21:38.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\Profile\\ProfileController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Profile\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\Profile\\ProfileController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\Profile\\ProfileController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T08:05:16.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DAOs\\CourseDAO\\CourseDAO.cs",
+              "RelativeDocumentMoniker": "EMT_API\\DAOs\\CourseDAO\\CourseDAO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DAOs\\CourseDAO\\CourseDAO.cs",
+              "RelativeToolTip": "EMT_API\\DAOs\\CourseDAO\\CourseDAO.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAzwE8AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:28:17.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FeedbackRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DAOs\\FeedbackDAO\\FeedbackRepository.cs",
+              "RelativeDocumentMoniker": "EMT_API\\DAOs\\FeedbackDAO\\FeedbackRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DAOs\\FeedbackDAO\\FeedbackRepository.cs",
+              "RelativeToolTip": "EMT_API\\DAOs\\FeedbackDAO\\FeedbackRepository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:30:45.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GoogleDriveController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\GoogleDrive\\GoogleDriveController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\GoogleDrive\\GoogleDriveController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\GoogleDrive\\GoogleDriveController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\GoogleDrive\\GoogleDriveController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T08:05:03.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\Payment\\PaymentController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Payment\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\Payment\\PaymentController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\Payment\\PaymentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T08:05:10.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AIWritingController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\AIExam\\AIWritingController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\AIExam\\AIWritingController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\AIExam\\AIWritingController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\AIExam\\AIWritingController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAwwEwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T09:02:18.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UploadController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\Common\\UploadController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Common\\UploadController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\Common\\UploadController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\Common\\UploadController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T14:52:27.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TeacherFeedbackController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\Teacher\\TeacherFeedbackController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Teacher\\TeacherFeedbackController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\Teacher\\TeacherFeedbackController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\Teacher\\TeacherFeedbackController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T07:20:28.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AIQuizService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Services\\AIExam\\AIQuizService.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Services\\AIExam\\AIQuizService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Services\\AIExam\\AIQuizService.cs",
+              "RelativeToolTip": "EMT_API\\Services\\AIExam\\AIQuizService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAwwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T07:09:57.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TeacherCourseController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\Teacher\\TeacherCourseController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Teacher\\TeacherCourseController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\Teacher\\TeacherCourseController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\Teacher\\TeacherCourseController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:17:22.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AISpeakingController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\AIExam\\AISpeakingController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\AIExam\\AISpeakingController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\AIExam\\AISpeakingController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\AIExam\\AISpeakingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T09:01:54.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IFeedbackRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DAOs\\FeedbackDAO\\IFeedbackRepository.cs",
+              "RelativeDocumentMoniker": "EMT_API\\DAOs\\FeedbackDAO\\IFeedbackRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DAOs\\FeedbackDAO\\IFeedbackRepository.cs",
+              "RelativeToolTip": "EMT_API\\DAOs\\FeedbackDAO\\IFeedbackRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T07:38:21.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IAIQuizService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Services\\AIExam\\IAIQuizService.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Services\\AIExam\\IAIQuizService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Services\\AIExam\\IAIQuizService.cs",
+              "RelativeToolTip": "EMT_API\\Services\\AIExam\\IAIQuizService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T07:09:14.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GoogleDriveService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\ExternalServices\\GoogleDriveService.cs",
+              "RelativeDocumentMoniker": "EMT_API\\ExternalServices\\GoogleDriveService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\ExternalServices\\GoogleDriveService.cs",
+              "RelativeToolTip": "EMT_API\\ExternalServices\\GoogleDriveService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T07:04:20.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CloudflareService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\ExternalServices\\CloudflareService.cs",
+              "RelativeDocumentMoniker": "EMT_API\\ExternalServices\\CloudflareService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\ExternalServices\\CloudflareService.cs",
+              "RelativeToolTip": "EMT_API\\ExternalServices\\CloudflareService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T07:04:14.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AIWritingService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\ExternalServices\\AIWritingService.cs",
+              "RelativeDocumentMoniker": "EMT_API\\ExternalServices\\AIWritingService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\ExternalServices\\AIWritingService.cs",
+              "RelativeToolTip": "EMT_API\\ExternalServices\\AIWritingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T07:04:04.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AIQuizExternal.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\ExternalServices\\AIQuizExternal.cs",
+              "RelativeDocumentMoniker": "EMT_API\\ExternalServices\\AIQuizExternal.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\ExternalServices\\AIQuizExternal.cs",
+              "RelativeToolTip": "EMT_API\\ExternalServices\\AIQuizExternal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T07:03:56.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AIReviewDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DAOs\\AIDAO\\AIReviewDAO.cs",
+              "RelativeDocumentMoniker": "EMT_API\\DAOs\\AIDAO\\AIReviewDAO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DAOs\\AIDAO\\AIReviewDAO.cs",
+              "RelativeToolTip": "EMT_API\\DAOs\\AIDAO\\AIReviewDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T07:48:56.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AIPromptDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DAOs\\AIDAO\\AIPromptDAO.cs",
+              "RelativeDocumentMoniker": "EMT_API\\DAOs\\AIDAO\\AIPromptDAO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DAOs\\AIDAO\\AIPromptDAO.cs",
+              "RelativeToolTip": "EMT_API\\DAOs\\AIDAO\\AIPromptDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T07:39:00.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AIQuizController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\AIExam\\AIQuizController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\AIExam\\AIQuizController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\AIExam\\AIQuizController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\AIExam\\AIQuizController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T16:03:26.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AdminFlashcardController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\Admin\\AdminFlashcardController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Admin\\AdminFlashcardController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\Admin\\AdminFlashcardController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\Admin\\AdminFlashcardController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwEAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:18:47.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IAIPromptDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DAOs\\AIDAO\\IAIPromptDAO.cs",
+              "RelativeDocumentMoniker": "EMT_API\\DAOs\\AIDAO\\IAIPromptDAO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DAOs\\AIDAO\\IAIPromptDAO.cs",
+              "RelativeToolTip": "EMT_API\\DAOs\\AIDAO\\IAIPromptDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T07:38:35.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PayOSService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\ExternalServices\\PayOSService.cs",
+              "RelativeDocumentMoniker": "EMT_API\\ExternalServices\\PayOSService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\ExternalServices\\PayOSService.cs",
+              "RelativeToolTip": "EMT_API\\ExternalServices\\PayOSService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T06:28:42.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TeacherFlashcardController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\Teacher\\TeacherFlashcardController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Teacher\\TeacherFlashcardController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\Teacher\\TeacherFlashcardController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\Teacher\\TeacherFlashcardController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAuwIUAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:27:59.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IAIReviewDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DAOs\\AIDAO\\IAIReviewDAO.cs",
+              "RelativeDocumentMoniker": "EMT_API\\DAOs\\AIDAO\\IAIReviewDAO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DAOs\\AIDAO\\IAIReviewDAO.cs",
+              "RelativeToolTip": "EMT_API\\DAOs\\AIDAO\\IAIReviewDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T07:48:34.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AISpeakingService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\ExternalServices\\AISpeakingService.cs",
+              "RelativeDocumentMoniker": "EMT_API\\ExternalServices\\AISpeakingService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\ExternalServices\\AISpeakingService.cs",
+              "RelativeToolTip": "EMT_API\\ExternalServices\\AISpeakingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T13:25:56.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CourseManagementController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\Admin\\CourseManagementController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Admin\\CourseManagementController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\Admin\\CourseManagementController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\Admin\\CourseManagementController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAMwEUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:42:09.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FlashcardProgressDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DAOs\\FlashcardDAO\\FlashcardProgressDAO.cs",
+              "RelativeDocumentMoniker": "EMT_API\\DAOs\\FlashcardDAO\\FlashcardProgressDAO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DAOs\\FlashcardDAO\\FlashcardProgressDAO.cs",
+              "RelativeToolTip": "EMT_API\\DAOs\\FlashcardDAO\\FlashcardProgressDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:15:28.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AdminFeedbackController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\Admin\\AdminFeedbackController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Admin\\AdminFeedbackController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\Admin\\AdminFeedbackController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\Admin\\AdminFeedbackController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T06:38:11.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TeacherInformationController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\Teacher\\TeacherInformationController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Teacher\\TeacherInformationController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\Teacher\\TeacherInformationController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\Teacher\\TeacherInformationController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwFQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T09:34:59.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TeacherReviewRespone.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DTOs\\Score\\TeacherReviewRespone.cs",
+              "RelativeDocumentMoniker": "EMT_API\\DTOs\\Score\\TeacherReviewRespone.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DTOs\\Score\\TeacherReviewRespone.cs",
+              "RelativeToolTip": "EMT_API\\DTOs\\Score\\TeacherReviewRespone.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T07:50:11.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ScoreDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DAOs\\ScoreDAO\\ScoreDAO.cs",
+              "RelativeDocumentMoniker": "EMT_API\\DAOs\\ScoreDAO\\ScoreDAO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DAOs\\ScoreDAO\\ScoreDAO.cs",
+              "RelativeToolTip": "EMT_API\\DAOs\\ScoreDAO\\ScoreDAO.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwDIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:37:15.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FlashcardController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\FlashCard\\FlashcardController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\FlashCard\\FlashcardController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\FlashCard\\FlashcardController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\FlashCard\\FlashcardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:27:52.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TeacherReviewController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\Teacher\\TeacherReviewController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Teacher\\TeacherReviewController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\Teacher\\TeacherReviewController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\Teacher\\TeacherReviewController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T07:52:27.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CreateTeacherReviewRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DTOs\\Score\\CreateTeacherReviewRequest.cs",
+              "RelativeDocumentMoniker": "EMT_API\\DTOs\\Score\\CreateTeacherReviewRequest.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DTOs\\Score\\CreateTeacherReviewRequest.cs",
+              "RelativeToolTip": "EMT_API\\DTOs\\Score\\CreateTeacherReviewRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T07:49:22.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AnswerTeacherReview.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Models\\AnswerTeacherReview.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Models\\AnswerTeacherReview.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Models\\AnswerTeacherReview.cs",
+              "RelativeToolTip": "EMT_API\\Models\\AnswerTeacherReview.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:25:59.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Models\\Account.cs",
+              "RelativeToolTip": "EMT_API\\Models\\Account.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:16:18.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AnswerAIReview.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Models\\AnswerAIReview.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Models\\AnswerAIReview.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Models\\AnswerAIReview.cs",
+              "RelativeToolTip": "EMT_API\\Models\\AnswerAIReview.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:25:49.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\Auth\\AuthController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Auth\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\Auth\\AuthController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\Auth\\AuthController.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAwwHkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T16:06:37.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\appsettings.json",
+              "RelativeDocumentMoniker": "EMT_API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\appsettings.json",
+              "RelativeToolTip": "EMT_API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-08T12:29:24.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "QuizController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\Quiz\\QuizController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Quiz\\QuizController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\Quiz\\QuizController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\Quiz\\QuizController.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAmwF8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T07:28:49.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "MembershipController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\Auth\\MembershipController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Auth\\MembershipController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\Auth\\MembershipController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\Auth\\MembershipController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAApwDwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:23:36.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "FlashcardDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DAOs\\FlashcardDAO\\FlashcardDAO.cs",
+              "RelativeDocumentMoniker": "EMT_API\\DAOs\\FlashcardDAO\\FlashcardDAO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DAOs\\FlashcardDAO\\FlashcardDAO.cs",
+              "RelativeToolTip": "EMT_API\\DAOs\\FlashcardDAO\\FlashcardDAO.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:30:32.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ITeacherScoreDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DAOs\\ScoreDAO\\ITeacherScoreDAO.cs",
+              "RelativeDocumentMoniker": "EMT_API\\DAOs\\ScoreDAO\\ITeacherScoreDAO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DAOs\\ScoreDAO\\ITeacherScoreDAO.cs",
+              "RelativeToolTip": "EMT_API\\DAOs\\ScoreDAO\\ITeacherScoreDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T07:33:06.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IFlashcardProgressDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DAOs\\FlashcardDAO\\IFlashcardProgressDAO.cs",
+              "RelativeDocumentMoniker": "EMT_API\\DAOs\\FlashcardDAO\\IFlashcardProgressDAO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DAOs\\FlashcardDAO\\IFlashcardProgressDAO.cs",
+              "RelativeToolTip": "EMT_API\\DAOs\\FlashcardDAO\\IFlashcardProgressDAO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA5wAkAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:14:31.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "MembershipDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DAOs\\MembershipDAO\\MembershipDAO.cs",
+              "RelativeDocumentMoniker": "EMT_API\\DAOs\\MembershipDAO\\MembershipDAO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DAOs\\MembershipDAO\\MembershipDAO.cs",
+              "RelativeToolTip": "EMT_API\\DAOs\\MembershipDAO\\MembershipDAO.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAcwBQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:26:48.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IFlashcardDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DAOs\\FlashcardDAO\\IFlashcardDAO.cs",
+              "RelativeDocumentMoniker": "EMT_API\\DAOs\\FlashcardDAO\\IFlashcardDAO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DAOs\\FlashcardDAO\\IFlashcardDAO.cs",
+              "RelativeToolTip": "EMT_API\\DAOs\\FlashcardDAO\\IFlashcardDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T05:57:54.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "AISubmissionDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DAOs\\AIDAO\\AISubmissionDAO.cs",
+              "RelativeDocumentMoniker": "EMT_API\\DAOs\\AIDAO\\AISubmissionDAO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DAOs\\AIDAO\\AISubmissionDAO.cs",
+              "RelativeToolTip": "EMT_API\\DAOs\\AIDAO\\AISubmissionDAO.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T07:35:03.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "AISubmission.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Models\\AISubmission.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Models\\AISubmission.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Models\\AISubmission.cs",
+              "RelativeToolTip": "EMT_API\\Models\\AISubmission.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA4wCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T07:51:53.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IAISubmissionDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DAOs\\AIDAO\\IAISubmissionDAO.cs",
+              "RelativeDocumentMoniker": "EMT_API\\DAOs\\AIDAO\\IAISubmissionDAO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DAOs\\AIDAO\\IAISubmissionDAO.cs",
+              "RelativeToolTip": "EMT_API\\DAOs\\AIDAO\\IAISubmissionDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T07:28:30.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "TeacherScoreDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DAOs\\ScoreDAO\\TeacherScoreDAO.cs",
+              "RelativeDocumentMoniker": "EMT_API\\DAOs\\ScoreDAO\\TeacherScoreDAO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DAOs\\ScoreDAO\\TeacherScoreDAO.cs",
+              "RelativeToolTip": "EMT_API\\DAOs\\ScoreDAO\\TeacherScoreDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T07:32:52.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\AppData\\Roaming\\Microsoft\\UserSecrets\\9a3c482b-c937-496c-b973-31db6beae285\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\9a3c482b-c937-496c-b973-31db6beae285\\secrets.json",
+              "ToolTip": "C:\\Users\\Dell\\AppData\\Roaming\\Microsoft\\UserSecrets\\9a3c482b-c937-496c-b973-31db6beae285\\secrets.json",
+              "RelativeToolTip": "..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\9a3c482b-c937-496c-b973-31db6beae285\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-08T12:28:22.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "PaymentDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DAOs\\PaymentDAO\\PaymentDAO.cs",
+              "RelativeDocumentMoniker": "EMT_API\\DAOs\\PaymentDAO\\PaymentDAO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DAOs\\PaymentDAO\\PaymentDAO.cs",
+              "RelativeToolTip": "EMT_API\\DAOs\\PaymentDAO\\PaymentDAO.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwEsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T05:52:42.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "FlashcardSetDto.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DTOs\\FlashCard\\FlashcardSetDto.cs",
+              "RelativeDocumentMoniker": "EMT_API\\DTOs\\FlashCard\\FlashcardSetDto.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DTOs\\FlashCard\\FlashcardSetDto.cs",
+              "RelativeToolTip": "EMT_API\\DTOs\\FlashCard\\FlashcardSetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:30:04.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "UpdateFlashcardProgressRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DTOs\\Progress\\UpdateFlashcardProgressRequest.cs",
+              "RelativeDocumentMoniker": "EMT_API\\DTOs\\Progress\\UpdateFlashcardProgressRequest.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DTOs\\Progress\\UpdateFlashcardProgressRequest.cs",
+              "RelativeToolTip": "EMT_API\\DTOs\\Progress\\UpdateFlashcardProgressRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:58:08.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "CreateFlashcardHisstoryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DTOs\\Progress\\CreateFlashcardHisstoryRequest.cs",
+              "RelativeDocumentMoniker": "EMT_API\\DTOs\\Progress\\CreateFlashcardHisstoryRequest.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DTOs\\Progress\\CreateFlashcardHisstoryRequest.cs",
+              "RelativeToolTip": "EMT_API\\DTOs\\Progress\\CreateFlashcardHisstoryRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T07:06:26.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "FlashcardHistoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DTOs\\Progress\\FlashcardHistoryDto.cs",
+              "RelativeDocumentMoniker": "EMT_API\\DTOs\\Progress\\FlashcardHistoryDto.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DTOs\\Progress\\FlashcardHistoryDto.cs",
+              "RelativeToolTip": "EMT_API\\DTOs\\Progress\\FlashcardHistoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T07:08:33.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "FlashcardProgressController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\FlashCard\\FlashcardProgressController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\FlashCard\\FlashcardProgressController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\FlashCard\\FlashcardProgressController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\FlashCard\\FlashcardProgressController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T07:12:23.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "QuizDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DAOs\\QuizDAO\\QuizDAO.cs",
+              "RelativeDocumentMoniker": "EMT_API\\DAOs\\QuizDAO\\QuizDAO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DAOs\\QuizDAO\\QuizDAO.cs",
+              "RelativeToolTip": "EMT_API\\DAOs\\QuizDAO\\QuizDAO.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAwwC4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:28:07.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "FlashcardProgressDto.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DTOs\\Progress\\FlashcardProgressDto.cs",
+              "RelativeDocumentMoniker": "EMT_API\\DTOs\\Progress\\FlashcardProgressDto.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DTOs\\Progress\\FlashcardProgressDto.cs",
+              "RelativeToolTip": "EMT_API\\DTOs\\Progress\\FlashcardProgressDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T07:05:14.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CreatePaymentRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DTOs\\Payment\\CreatePaymentRequest.cs",
+              "RelativeDocumentMoniker": "EMT_API\\DTOs\\Payment\\CreatePaymentRequest.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DTOs\\Payment\\CreatePaymentRequest.cs",
+              "RelativeToolTip": "EMT_API\\DTOs\\Payment\\CreatePaymentRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T06:07:17.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "LearnFlashcardRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DTOs\\Progress\\LearnFlashcardRequest.cs",
+              "RelativeDocumentMoniker": "EMT_API\\DTOs\\Progress\\LearnFlashcardRequest.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DTOs\\Progress\\LearnFlashcardRequest.cs",
+              "RelativeToolTip": "EMT_API\\DTOs\\Progress\\LearnFlashcardRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T06:27:22.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "FlashcardHistory.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Models\\FlashcardHistory.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Models\\FlashcardHistory.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Models\\FlashcardHistory.cs",
+              "RelativeToolTip": "EMT_API\\Models\\FlashcardHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:26:18.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\Course\\CourseController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Course\\CourseController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\Course\\CourseController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\Course\\CourseController.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAIwMsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T07:28:46.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "QuizAdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\Admin\\QuizAdminController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Admin\\QuizAdminController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\Admin\\QuizAdminController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\Admin\\QuizAdminController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAA9wCgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T09:09:07.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "PlanController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\Public\\PlanController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Public\\PlanController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\Public\\PlanController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\Public\\PlanController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T07:46:40.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "AIPrompt.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Models\\AIPrompt.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Models\\AIPrompt.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Models\\AIPrompt.cs",
+              "RelativeToolTip": "EMT_API\\Models\\AIPrompt.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T08:07:10.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "AISpeakingDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DTOs\\AITest\\AISpeakingDTO.cs",
+              "RelativeDocumentMoniker": "EMT_API\\DTOs\\AITest\\AISpeakingDTO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DTOs\\AITest\\AISpeakingDTO.cs",
+              "RelativeToolTip": "EMT_API\\DTOs\\AITest\\AISpeakingDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T09:00:31.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "AIWritingDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DTOs\\AITest\\AIWritingDTO.cs",
+              "RelativeDocumentMoniker": "EMT_API\\DTOs\\AITest\\AIWritingDTO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DTOs\\AITest\\AIWritingDTO.cs",
+              "RelativeToolTip": "EMT_API\\DTOs\\AITest\\AIWritingDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T09:00:59.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Answer.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Models\\Answer.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Models\\Answer.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Models\\Answer.cs",
+              "RelativeToolTip": "EMT_API\\Models\\Answer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:25:05.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Models\\Course.cs",
+              "RelativeToolTip": "EMT_API\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:22:54.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "FlashcardProgress.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Models\\FlashcardProgress.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Models\\FlashcardProgress.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Models\\FlashcardProgress.cs",
+              "RelativeToolTip": "EMT_API\\Models\\FlashcardProgress.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:25:42.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "EMTDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Data\\EMTDbContext.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Data\\EMTDbContext.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Data\\EMTDbContext.cs",
+              "RelativeToolTip": "EMT_API\\Data\\EMTDbContext.cs",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAgwNUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:17:44.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Models\\Feedback.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Models\\Feedback.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Models\\Feedback.cs",
+              "RelativeToolTip": "EMT_API\\Models\\Feedback.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:24:02.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Attempt.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Models\\Attempt.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Models\\Attempt.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Models\\Attempt.cs",
+              "RelativeToolTip": "EMT_API\\Models\\Attempt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:24:33.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Asset.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Models\\Asset.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Models\\Asset.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Models\\Asset.cs",
+              "RelativeToolTip": "EMT_API\\Models\\Asset.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:26:07.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "FlashcardSet.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Models\\FlashcardSet.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Models\\FlashcardSet.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Models\\FlashcardSet.cs",
+              "RelativeToolTip": "EMT_API\\Models\\FlashcardSet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:23:21.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "FlashcardItem.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Models\\FlashcardItem.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Models\\FlashcardItem.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Models\\FlashcardItem.cs",
+              "RelativeToolTip": "EMT_API\\Models\\FlashcardItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:18:26.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "ScoreManagementController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\Admin\\ScoreManagementController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Admin\\ScoreManagementController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\Admin\\ScoreManagementController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\Admin\\ScoreManagementController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAUwDIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:16:22.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "RequestLog.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Models\\RequestLog.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Models\\RequestLog.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Models\\RequestLog.cs",
+              "RelativeToolTip": "EMT_API\\Models\\RequestLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:16:56.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "SubscriptionPlan.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Models\\SubscriptionPlan.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Models\\SubscriptionPlan.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Models\\SubscriptionPlan.cs",
+              "RelativeToolTip": "EMT_API\\Models\\SubscriptionPlan.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T07:47:02.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "CourseChapter.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Models\\CourseChapter.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Models\\CourseChapter.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Models\\CourseChapter.cs",
+              "RelativeToolTip": "EMT_API\\Models\\CourseChapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:24:23.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "SubscriptionPlanDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DAOs\\SubscriptionPlanDAO\\SubscriptionPlanDAO.cs",
+              "RelativeDocumentMoniker": "EMT_API\\DAOs\\SubscriptionPlanDAO\\SubscriptionPlanDAO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DAOs\\SubscriptionPlanDAO\\SubscriptionPlanDAO.cs",
+              "RelativeToolTip": "EMT_API\\DAOs\\SubscriptionPlanDAO\\SubscriptionPlanDAO.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAlwD0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T05:55:46.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "ISubscriptionPlanDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DAOs\\SubscriptionPlanDAO\\ISubscriptionPlanDAO.cs",
+              "RelativeDocumentMoniker": "EMT_API\\DAOs\\SubscriptionPlanDAO\\ISubscriptionPlanDAO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DAOs\\SubscriptionPlanDAO\\ISubscriptionPlanDAO.cs",
+              "RelativeToolTip": "EMT_API\\DAOs\\SubscriptionPlanDAO\\ISubscriptionPlanDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T05:57:46.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "CourseVideo.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Models\\CourseVideo.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Models\\CourseVideo.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Models\\CourseVideo.cs",
+              "RelativeToolTip": "EMT_API\\Models\\CourseVideo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:25:26.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "IMembershipDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DAOs\\MembershipDAO\\IMembershipDAO.cs",
+              "RelativeDocumentMoniker": "EMT_API\\DAOs\\MembershipDAO\\IMembershipDAO.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\DAOs\\MembershipDAO\\IMembershipDAO.cs",
+              "RelativeToolTip": "EMT_API\\DAOs\\MembershipDAO\\IMembershipDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T07:28:41.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "VideoController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\Video\\VideoController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Video\\VideoController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Controllers\\Video\\VideoController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\Video\\VideoController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowBkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T04:27:09.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "EMT_API.csproj",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\EMT_API.csproj",
+              "RelativeDocumentMoniker": "EMT_API\\EMT_API.csproj",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\EMT_API.csproj",
+              "RelativeToolTip": "EMT_API\\EMT_API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-08T12:14:12.957Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IFeedbackService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Services\\FeedbackService\\IFeedbackService.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Services\\FeedbackService\\IFeedbackService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Group1_SWP391_FPTU\\server\\EMT_API\\Services\\FeedbackService\\IFeedbackService.cs",
+              "RelativeToolTip": "EMT_API\\Services\\FeedbackService\\IFeedbackService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T07:21:25.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
