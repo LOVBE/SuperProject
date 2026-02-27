@@ -38,6 +38,7 @@
 
   <ItemGroup>
     <Folder Include="avatars\" />
+    <Folder Include="Repositories\" />
   </ItemGroup>
 
 </Project>
