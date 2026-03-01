@@ -3,7 +3,6 @@ using EMT_API.DTOs.Auth;
 using EMT_API.Models;
 using EMT_API.Security;
 using EMT_API.Utils;
-using EMT_API.DAOs.UserDAO;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -12,6 +11,7 @@ using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
 using Google.Apis.Auth;
+using EMT_API.Services.UserService;
 
 namespace EMT_API.Controllers.Auth;
 
@@ -19,13 +19,13 @@ namespace EMT_API.Controllers.Auth;
 [Route("api/auth")]
 public class AuthController : ControllerBase
 {
-    private readonly IUserDAO _dao;
+    private readonly IUserService _userService;
     private readonly ITokenService _tokens;
     private readonly IConfiguration _cfg;
 
-    public AuthController(ITokenService tokens, IConfiguration cfg, IUserDAO dao)
+    public AuthController(ITokenService tokens, IConfiguration cfg, IUserService userService)
     {
-        _dao = dao;
+        _userService = userService;
         _tokens = tokens;
         _cfg = cfg;
     }
@@ -51,9 +51,9 @@ public class AuthController : ControllerBase
         if (!otpSvc.Verify(req.Email, req.Otp))
             return Unauthorized("OTP không hợp lệ hoặc đã hết hạn.");
 
-        if (await _dao.IsEmailExistsAsync(req.Email))
+        if (await _userService.IsEmailExistsAsync(req.Email))
             return Conflict("Email đã tồn tại.");
-        if (await _dao.IsUsernameExistsAsync(req.Username))
+        if (await _userService.IsUsernameExistsAsync(req.Username))
             return Conflict("Username đã tồn tại.");
 
         var hashed = PasswordHasher.Hash(req.Password);
@@ -68,8 +68,8 @@ public class AuthController : ControllerBase
             Role = "STUDENT"
         };
 
-        await _dao.CreateAccountAsync(acc);
-        await _dao.CreateUserDetailAsync(acc.AccountID);
+        await _userService.CreateAccountAsync(acc);
+        await _userService.CreateUserDetailAsync(acc.AccountID);
 
         var access = _tokens.CreateAccessToken(acc, acc.RefreshTokenVersion);
         var (rt, exp) = _tokens.CreateRefreshToken();
@@ -77,7 +77,7 @@ public class AuthController : ControllerBase
         acc.RefreshTokenHash = _tokens.HashRefreshToken(rt);
         acc.RefreshTokenExpiresAt = exp.UtcDateTime;
         acc.LastLoginAt = DateTime.UtcNow;
-        await _dao.UpdateAccountAsync(acc);
+        await _userService.UpdateAccountAsync(acc);
 
         SetRefreshCookie(rt, exp);
 
@@ -95,9 +95,9 @@ public class AuthController : ControllerBase
     [HttpPost("registerTeacher")]
     public async Task<ActionResult<AuthResponse>> RegisterTeacher([FromBody] RegisterRequest req)
     {
-        if (await _dao.IsEmailExistsAsync(req.Email))
+        if (await _userService.IsEmailExistsAsync(req.Email))
             return Conflict("Email đã tồn tại.");
-        if (await _dao.IsUsernameExistsAsync(req.Username))
+        if (await _userService.IsUsernameExistsAsync(req.Username))
             return Conflict("Username đã tồn tại.");
 
         var hashed = PasswordHasher.Hash(req.Password);
@@ -112,9 +112,9 @@ public class AuthController : ControllerBase
             Role = "TEACHER"
         };
 
-        await _dao.CreateAccountAsync(acc);
-        await _dao.CreateUserDetailAsync(acc.AccountID);
-        await _dao.CreateTeacherAsync(acc.AccountID);
+        await _userService.CreateAccountAsync(acc);
+        await _userService.CreateUserDetailAsync(acc.AccountID);
+        await _userService.CreateTeacherAsync(acc.AccountID);
 
         var access = _tokens.CreateAccessToken(acc, acc.RefreshTokenVersion);
         var (rt, exp) = _tokens.CreateRefreshToken();
@@ -122,7 +122,7 @@ public class AuthController : ControllerBase
         acc.RefreshTokenHash = _tokens.HashRefreshToken(rt);
         acc.RefreshTokenExpiresAt = exp.UtcDateTime;
         acc.LastLoginAt = DateTime.UtcNow;
-        await _dao.UpdateAccountAsync(acc);
+        await _userService.UpdateAccountAsync(acc);
 
         SetRefreshCookie(rt, exp);
 
@@ -172,7 +172,7 @@ public class AuthController : ControllerBase
         if (!System.Text.RegularExpressions.Regex.IsMatch(req.Password, passPattern))
             return BadRequest("Mật khẩu phải có ít nhất 8 ký tự, gồm ít nhất 1 chữ hoa và 1 chữ thường.");
 
-        var user = await _dao.GetByEmailOrUsernameAsync(req.EmailOrUsername);
+        var user = await _userService.GetByEmailOrUsernameAsync(req.EmailOrUsername);
         if (user is null)
             return Unauthorized("Email/username không đúng.");
 
@@ -188,7 +188,7 @@ public class AuthController : ControllerBase
         user.RefreshTokenHash = _tokens.HashRefreshToken(rt);
         user.RefreshTokenExpiresAt = exp.UtcDateTime;
         user.LastLoginAt = DateTime.UtcNow;
-        await _dao.UpdateAccountAsync(user);
+        await _userService.UpdateAccountAsync(user);
 
         SetRefreshCookie(rt, exp);
 
@@ -236,7 +236,7 @@ public class AuthController : ControllerBase
         if (string.IsNullOrEmpty(email))
             email = $"{sub}@googleuser.com";
 
-        var user = await _dao.GetByEmailAsync(email);
+        var user = await _userService.GetByEmailAsync(email);
 
         if (user == null)
         {
@@ -248,8 +248,8 @@ public class AuthController : ControllerBase
                 Role = "STUDENT"
             };
 
-            await _dao.CreateAccountAsync(user);
-            await _dao.CreateUserDetailAsync(user.AccountID);
+            await _userService.CreateAccountAsync(user);
+            await _userService.CreateUserDetailAsync(user.AccountID);
         }
 
         var access = _tokens.CreateAccessToken(user, user.RefreshTokenVersion);
@@ -258,7 +258,7 @@ public class AuthController : ControllerBase
         user.RefreshTokenHash = _tokens.HashRefreshToken(rt);
         user.RefreshTokenExpiresAt = exp.UtcDateTime;
         user.LastLoginAt = DateTime.UtcNow;
-        await _dao.UpdateAccountAsync(user);
+        await _userService.UpdateAccountAsync(user);
 
         SetRefreshCookie(rt, exp);
 
@@ -291,14 +291,14 @@ public class AuthController : ControllerBase
                   ?? principal?.FindFirstValue(JwtRegisteredClaimNames.Sub);
         if (!int.TryParse(sub, out var uid)) return Unauthorized("Cannot identify user.");
 
-        var user = await _dao.GetByIdAsync(uid);
+        var user = await _userService.GetByIdAsync(uid);
         if (user is null) return Unauthorized();
 
         if (user.RefreshTokenExpiresAt is null || user.RefreshTokenExpiresAt <= DateTime.UtcNow)
         {
             ClearRefreshCookie();
             user.RefreshTokenHash = null;
-            await _dao.UpdateAccountAsync(user);
+            await _userService.UpdateAccountAsync(user);
             return Unauthorized("Refresh token expired.");
         }
 
@@ -308,7 +308,7 @@ public class AuthController : ControllerBase
             user.RefreshTokenVersion += 1;
             user.RefreshTokenHash = null;
             user.RefreshTokenExpiresAt = null;
-            await _dao.UpdateAccountAsync(user);
+            await _userService.UpdateAccountAsync(user);
             ClearRefreshCookie();
             return Unauthorized("Refresh token reuse detected.");
         }
@@ -317,7 +317,7 @@ public class AuthController : ControllerBase
         var (newRt, newExp) = _tokens.CreateRefreshToken();
         user.RefreshTokenHash = _tokens.HashRefreshToken(newRt);
         user.RefreshTokenExpiresAt = newExp.UtcDateTime;
-        await _dao.UpdateAccountAsync(user);
+        await _userService.UpdateAccountAsync(user);
 
         SetRefreshCookie(newRt, newExp);
 
@@ -336,12 +336,12 @@ public class AuthController : ControllerBase
     public async Task<IActionResult> Logout()
     {
         var uid = int.Parse(User.FindFirstValue(ClaimTypes.NameIdentifier)!);
-        var user = await _dao.GetByIdAsync(uid);
+        var user = await _userService.GetByIdAsync(uid);
         if (user != null)
         {
             user.RefreshTokenHash = null;
             user.RefreshTokenExpiresAt = null;
-            await _dao.UpdateAccountAsync(user);
+            await _userService.UpdateAccountAsync(user);
         }
         ClearRefreshCookie();
         return Ok();
@@ -355,7 +355,7 @@ public class AuthController : ControllerBase
         [FromServices] IConfiguration cfg,
         [FromServices] EmailSender mailer)
     {
-        var acc = await _dao.GetByEmailAsync(req.Email);
+        var acc = await _userService.GetByEmailAsync(req.Email);
         if (acc is null) return Ok(new { message = "If the email exists, a reset link has been sent." });
 
         var token = ResetPasswordTokenService.Create(acc, cfg);
@@ -380,7 +380,7 @@ public class AuthController : ControllerBase
         if (!ResetPasswordTokenService.TryValidate(req.Token, cfg, out var accountId, out var fpFromToken))
             return BadRequest("Token không hợp lệ hoặc đã hết hạn.");
 
-        var acc = await _dao.GetByIdAsync(accountId);
+        var acc = await _userService.GetByIdAsync(accountId);
         if (acc is null) return BadRequest("Tài khoản không tồn tại.");
 
         var nowFp = ResetPasswordTokenService.Fingerprint(acc.Hashpass);
@@ -388,7 +388,7 @@ public class AuthController : ControllerBase
             return BadRequest("Token đã bị vô hiệu.");
 
         acc.Hashpass = PasswordHasher.Hash(req.NewPassword);
-        await _dao.UpdateAccountAsync(acc);
+        await _userService.UpdateAccountAsync(acc);
 
         return Ok(new { message = "Đổi mật khẩu thành công." });
     }

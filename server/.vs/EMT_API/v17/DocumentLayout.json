@@ -3,6 +3,186 @@
   "WorkspaceRootPath": "D:\\FPT.exe6\\server\\SuperProject\\server\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\admin\\systemexamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\admin\\systemexamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\aiexam\\aiquizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\aiexam\\aiquizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\admin\\usermanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\admin\\usermanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\auth\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\auth\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\services\\userservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\services\\userservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\auth\\membershipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\auth\\membershipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\services\\userservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\services\\userservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\repositories\\userrepository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\repositories\\userrepository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\interfaces\\iuserrepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\interfaces\\iuserrepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\interfaces\\feedbackdao\\ifeedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\interfaces\\feedbackdao\\ifeedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\admin\\adminfeedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\admin\\adminfeedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\admin\\subscriptionplanmanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\admin\\subscriptionplanmanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\admin\\transactionmanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\admin\\transactionmanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\admin\\adminflashcardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\admin\\adminflashcardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\admin\\coursemanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\admin\\coursemanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\admin\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\admin\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\admin\\quizadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\admin\\quizadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\admin\\scoremanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\admin\\scoremanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\aiexam\\aiwritingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\aiexam\\aiwritingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\aiexam\\aispeakingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\aiexam\\aispeakingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\interfaces\\dashboarddao\\idashboarddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\interfaces\\dashboarddao\\idashboarddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\interfaces\\dashboarddao\\dashboarddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\interfaces\\dashboarddao\\dashboarddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\interfaces\\feedbackdao\\feedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\interfaces\\feedbackdao\\feedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\common\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\common\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\course\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\course\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\flashcard\\flashcardprogresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\flashcard\\flashcardprogresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\flashcard\\flashcardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\flashcard\\flashcardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\googledrive\\googledrivecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\googledrive\\googledrivecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\payment\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\payment\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\profile\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\profile\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\public\\plancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\public\\plancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\quiz\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\quiz\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\quiz\\attemptscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\quiz\\attemptscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\video\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\video\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\teacher\\teacherreviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\teacher\\teacherreviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\teacher\\teacherquizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\teacher\\teacherquizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\teacher\\teacherinformationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\teacher\\teacherinformationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\teacher\\teacherflashcardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\teacher\\teacherflashcardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\teacher\\teacherfeedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\teacher\\teacherfeedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\teacher\\teachercoursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\teacher\\teachercoursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\interfaces\\aidao\\iaisubmissiondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\interfaces\\aidao\\iaisubmissiondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\interfaces\\coursedao\\icoursedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\interfaces\\coursedao\\icoursedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\interfaces\\coursedao\\coursedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\interfaces\\coursedao\\coursedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\interfaces\\subscriptionplandao\\isubscriptionplandao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\interfaces\\subscriptionplandao\\isubscriptionplandao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,68 +195,12 @@
       "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\services\\feedbackservice\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\services\\feedbackservice\\ifeedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\services\\feedbackservice\\ifeedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\interfaces\\feedbackdao\\feedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\interfaces\\feedbackdao\\feedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\interfaces\\coursedao\\coursedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\interfaces\\coursedao\\coursedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\profile\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\profile\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\payment\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\payment\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\googledrive\\googledrivecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\googledrive\\googledrivecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\common\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\common\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\aiexam\\aiwritingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\aiexam\\aiwritingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\teacher\\teacherfeedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\teacher\\teacherfeedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\services\\aiexam\\aiquizservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\services\\aiexam\\aiquizservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\teacher\\teachercoursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\teacher\\teachercoursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\aiexam\\aispeakingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\aiexam\\aispeakingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\interfaces\\feedbackdao\\ifeedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\interfaces\\feedbackdao\\ifeedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\services\\aiexam\\iaiquizservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\services\\aiexam\\iaiquizservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\aiexam\\aiquizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\aiexam\\aiquizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\externalservices\\payosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -115,36 +239,12 @@
       "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\interfaces\\aidao\\iaireviewdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\admin\\coursemanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\admin\\coursemanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\admin\\adminflashcardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\admin\\adminflashcardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\interfaces\\aidao\\iaipromptdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\interfaces\\aidao\\iaipromptdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\teacher\\teacherflashcardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\teacher\\teacherflashcardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\interfaces\\flashcarddao\\flashcardprogressdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\interfaces\\flashcarddao\\flashcardprogressdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\admin\\adminfeedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\admin\\adminfeedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\teacher\\teacherreviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\teacher\\teacherreviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\flashcard\\flashcardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\flashcard\\flashcardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\dtos\\score\\createteacherreviewrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -153,10 +253,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\dtos\\score\\teacherreviewrespone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\dtos\\score\\teacherreviewrespone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\teacher\\teacherinformationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\teacher\\teacherinformationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\interfaces\\scoredao\\scoredao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -171,24 +267,8 @@
       "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\models\\answerteacherreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\auth\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\auth\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\quiz\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\quiz\\quizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\auth\\membershipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\auth\\membershipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\interfaces\\flashcarddao\\flashcarddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -219,10 +299,6 @@
       "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\models\\aisubmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\interfaces\\aidao\\iaisubmissiondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\interfaces\\aidao\\iaisubmissiondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\interfaces\\scoredao\\teacherscoredao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\interfaces\\scoredao\\teacherscoredao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -240,10 +316,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\interfaces\\quizdao\\quizdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\interfaces\\quizdao\\quizdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\flashcard\\flashcardprogresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\flashcard\\flashcardprogresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\dtos\\payment\\createpaymentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -272,18 +344,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\models\\flashcardhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\models\\flashcardhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\course\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\course\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\admin\\quizadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\admin\\quizadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\public\\plancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\public\\plancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\dtos\\aitest\\aispeakingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -334,10 +394,6 @@
       "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\models\\flashcarditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\admin\\scoremanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\admin\\scoremanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\models\\coursechapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\models\\coursechapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -352,10 +408,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\models\\coursevideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\models\\coursevideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\controllers\\video\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|solutionrelative:emt_api\\controllers\\video\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87984FC8-ED7C-40A2-8E40-95E860DC28A0}|EMT_API\\EMT_API.csproj|d:\\fpt.exe6\\server\\superproject\\server\\emt_api\\interfaces\\membershipdao\\imembershipdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -373,742 +425,333 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FeedbackService.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Services\\FeedbackService\\FeedbackService.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Services\\FeedbackService\\FeedbackService.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Services\\FeedbackService\\FeedbackService.cs",
-              "RelativeToolTip": "EMT_API\\Services\\FeedbackService\\FeedbackService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Services\\UserService\\IUserService.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Services\\UserService\\IUserService.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Services\\UserService\\IUserService.cs",
+              "RelativeToolTip": "EMT_API\\Services\\UserService\\IUserService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADgvwkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T07:21:38.019Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FeedbackRepository.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\FeedbackDAO\\FeedbackRepository.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Interfaces\\FeedbackDAO\\FeedbackRepository.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\FeedbackDAO\\FeedbackRepository.cs",
-              "RelativeToolTip": "EMT_API\\Interfaces\\FeedbackDAO\\FeedbackRepository.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAIwA0AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T13:30:45.273Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ISubscriptionPlanDAO.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\SubscriptionPlanDAO\\ISubscriptionPlanDAO.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Interfaces\\SubscriptionPlanDAO\\ISubscriptionPlanDAO.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\SubscriptionPlanDAO\\ISubscriptionPlanDAO.cs",
-              "RelativeToolTip": "EMT_API\\Interfaces\\SubscriptionPlanDAO\\ISubscriptionPlanDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T05:57:46.492Z",
+              "WhenOpened": "2026-02-27T07:41:57.16Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SubscriptionPlanDAO.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\SubscriptionPlanDAO\\SubscriptionPlanDAO.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Interfaces\\SubscriptionPlanDAO\\SubscriptionPlanDAO.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\SubscriptionPlanDAO\\SubscriptionPlanDAO.cs",
-              "RelativeToolTip": "EMT_API\\Interfaces\\SubscriptionPlanDAO\\SubscriptionPlanDAO.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAlwD0AAAA4AAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "UserManagementController.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Admin\\UserManagementController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Admin\\UserManagementController.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Admin\\UserManagementController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\Admin\\UserManagementController.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAYwAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T05:55:46.219Z"
+              "WhenOpened": "2026-02-27T07:01:56.973Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "CourseDAO.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\CourseDAO\\CourseDAO.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Interfaces\\CourseDAO\\CourseDAO.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\CourseDAO\\CourseDAO.cs",
-              "RelativeToolTip": "EMT_API\\Interfaces\\CourseDAO\\CourseDAO.cs",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAzwE8AAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T13:28:17.248Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProfileController.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Profile\\ProfileController.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Profile\\ProfileController.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Profile\\ProfileController.cs",
-              "RelativeToolTip": "EMT_API\\Controllers\\Profile\\ProfileController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAQAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T08:05:16.098Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Program.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Program.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Program.cs",
-              "RelativeToolTip": "EMT_API\\Program.cs",
-              "ViewState": "AgIAAIQAAAAAAAAAAAAQwJwAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T08:10:17.575Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "GoogleDriveController.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\GoogleDrive\\GoogleDriveController.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Controllers\\GoogleDrive\\GoogleDriveController.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\GoogleDrive\\GoogleDriveController.cs",
-              "RelativeToolTip": "EMT_API\\Controllers\\GoogleDrive\\GoogleDriveController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T08:05:03.941Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PaymentController.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Payment\\PaymentController.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Payment\\PaymentController.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Payment\\PaymentController.cs",
-              "RelativeToolTip": "EMT_API\\Controllers\\Payment\\PaymentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T08:05:10.127Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AIWritingController.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\AIExam\\AIWritingController.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Controllers\\AIExam\\AIWritingController.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\AIExam\\AIWritingController.cs",
-              "RelativeToolTip": "EMT_API\\Controllers\\AIExam\\AIWritingController.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAwwEwAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T09:02:18.901Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UploadController.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Common\\UploadController.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Common\\UploadController.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Common\\UploadController.cs",
-              "RelativeToolTip": "EMT_API\\Controllers\\Common\\UploadController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T14:52:27.241Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "TeacherFeedbackController.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Teacher\\TeacherFeedbackController.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Teacher\\TeacherFeedbackController.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Teacher\\TeacherFeedbackController.cs",
-              "RelativeToolTip": "EMT_API\\Controllers\\Teacher\\TeacherFeedbackController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T07:20:28.297Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AIQuizService.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Services\\AIExam\\AIQuizService.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Services\\AIExam\\AIQuizService.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Services\\AIExam\\AIQuizService.cs",
-              "RelativeToolTip": "EMT_API\\Services\\AIExam\\AIQuizService.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAwwC0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T07:09:57.212Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "TeacherCourseController.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Teacher\\TeacherCourseController.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Teacher\\TeacherCourseController.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Teacher\\TeacherCourseController.cs",
-              "RelativeToolTip": "EMT_API\\Controllers\\Teacher\\TeacherCourseController.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAowAQAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T06:17:22.766Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AISpeakingController.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\AIExam\\AISpeakingController.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Controllers\\AIExam\\AISpeakingController.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\AIExam\\AISpeakingController.cs",
-              "RelativeToolTip": "EMT_API\\Controllers\\AIExam\\AISpeakingController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T09:01:54.049Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IFeedbackRepository.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\FeedbackDAO\\IFeedbackRepository.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Interfaces\\FeedbackDAO\\IFeedbackRepository.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\FeedbackDAO\\IFeedbackRepository.cs",
-              "RelativeToolTip": "EMT_API\\Interfaces\\FeedbackDAO\\IFeedbackRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T07:38:21.4Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IAIQuizService.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Services\\AIExam\\IAIQuizService.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Services\\AIExam\\IAIQuizService.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Services\\AIExam\\IAIQuizService.cs",
-              "RelativeToolTip": "EMT_API\\Services\\AIExam\\IAIQuizService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T07:09:14.433Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "GoogleDriveService.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\ExternalServices\\GoogleDriveService.cs",
-              "RelativeDocumentMoniker": "EMT_API\\ExternalServices\\GoogleDriveService.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\ExternalServices\\GoogleDriveService.cs",
-              "RelativeToolTip": "EMT_API\\ExternalServices\\GoogleDriveService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T07:04:20.644Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "CloudflareService.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\ExternalServices\\CloudflareService.cs",
-              "RelativeDocumentMoniker": "EMT_API\\ExternalServices\\CloudflareService.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\ExternalServices\\CloudflareService.cs",
-              "RelativeToolTip": "EMT_API\\ExternalServices\\CloudflareService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T07:04:14.965Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "AIWritingService.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\ExternalServices\\AIWritingService.cs",
-              "RelativeDocumentMoniker": "EMT_API\\ExternalServices\\AIWritingService.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\ExternalServices\\AIWritingService.cs",
-              "RelativeToolTip": "EMT_API\\ExternalServices\\AIWritingService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T07:04:04.311Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "AIQuizExternal.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\ExternalServices\\AIQuizExternal.cs",
-              "RelativeDocumentMoniker": "EMT_API\\ExternalServices\\AIQuizExternal.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\ExternalServices\\AIQuizExternal.cs",
-              "RelativeToolTip": "EMT_API\\ExternalServices\\AIQuizExternal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T07:03:56.856Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "AIReviewDAO.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\AIDAO\\AIReviewDAO.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Interfaces\\AIDAO\\AIReviewDAO.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\AIDAO\\AIReviewDAO.cs",
-              "RelativeToolTip": "EMT_API\\Interfaces\\AIDAO\\AIReviewDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T07:48:56.101Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "AIPromptDAO.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\AIDAO\\AIPromptDAO.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Interfaces\\AIDAO\\AIPromptDAO.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\AIDAO\\AIPromptDAO.cs",
-              "RelativeToolTip": "EMT_API\\Interfaces\\AIDAO\\AIPromptDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T07:39:00.322Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "AIQuizController.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\AIExam\\AIQuizController.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Controllers\\AIExam\\AIQuizController.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\AIExam\\AIQuizController.cs",
-              "RelativeToolTip": "EMT_API\\Controllers\\AIExam\\AIQuizController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T16:03:26.079Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "AdminFlashcardController.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Admin\\AdminFlashcardController.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Admin\\AdminFlashcardController.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Admin\\AdminFlashcardController.cs",
-              "RelativeToolTip": "EMT_API\\Controllers\\Admin\\AdminFlashcardController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAQwEAAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T13:18:47.537Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "IAIPromptDAO.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\AIDAO\\IAIPromptDAO.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Interfaces\\AIDAO\\IAIPromptDAO.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\AIDAO\\IAIPromptDAO.cs",
-              "RelativeToolTip": "EMT_API\\Interfaces\\AIDAO\\IAIPromptDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T07:38:35.404Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "PayOSService.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\ExternalServices\\PayOSService.cs",
-              "RelativeDocumentMoniker": "EMT_API\\ExternalServices\\PayOSService.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\ExternalServices\\PayOSService.cs",
-              "RelativeToolTip": "EMT_API\\ExternalServices\\PayOSService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T06:28:42.591Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "TeacherFlashcardController.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Teacher\\TeacherFlashcardController.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Teacher\\TeacherFlashcardController.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Teacher\\TeacherFlashcardController.cs",
-              "RelativeToolTip": "EMT_API\\Controllers\\Teacher\\TeacherFlashcardController.cs",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAuwIUAAABiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T13:27:59.781Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "IAIReviewDAO.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\AIDAO\\IAIReviewDAO.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Interfaces\\AIDAO\\IAIReviewDAO.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\AIDAO\\IAIReviewDAO.cs",
-              "RelativeToolTip": "EMT_API\\Interfaces\\AIDAO\\IAIReviewDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T07:48:34.097Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "AISpeakingService.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\ExternalServices\\AISpeakingService.cs",
-              "RelativeDocumentMoniker": "EMT_API\\ExternalServices\\AISpeakingService.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\ExternalServices\\AISpeakingService.cs",
-              "RelativeToolTip": "EMT_API\\ExternalServices\\AISpeakingService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T13:25:56.378Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "CourseManagementController.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Admin\\CourseManagementController.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Admin\\CourseManagementController.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Admin\\CourseManagementController.cs",
-              "RelativeToolTip": "EMT_API\\Controllers\\Admin\\CourseManagementController.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAMwEUAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T06:42:09.957Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "FlashcardProgressDAO.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\FlashcardDAO\\FlashcardProgressDAO.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Interfaces\\FlashcardDAO\\FlashcardProgressDAO.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\FlashcardDAO\\FlashcardProgressDAO.cs",
-              "RelativeToolTip": "EMT_API\\Interfaces\\FlashcardDAO\\FlashcardProgressDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T06:15:28.403Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "AdminFeedbackController.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Admin\\AdminFeedbackController.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Admin\\AdminFeedbackController.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Admin\\AdminFeedbackController.cs",
-              "RelativeToolTip": "EMT_API\\Controllers\\Admin\\AdminFeedbackController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T06:38:11.34Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "TeacherInformationController.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Teacher\\TeacherInformationController.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Teacher\\TeacherInformationController.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Teacher\\TeacherInformationController.cs",
-              "RelativeToolTip": "EMT_API\\Controllers\\Teacher\\TeacherInformationController.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAwwFQAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T09:34:59.397Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "TeacherReviewRespone.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\DTOs\\Score\\TeacherReviewRespone.cs",
-              "RelativeDocumentMoniker": "EMT_API\\DTOs\\Score\\TeacherReviewRespone.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\DTOs\\Score\\TeacherReviewRespone.cs",
-              "RelativeToolTip": "EMT_API\\DTOs\\Score\\TeacherReviewRespone.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAgAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T07:50:11.696Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "ScoreDAO.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\ScoreDAO\\ScoreDAO.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Interfaces\\ScoreDAO\\ScoreDAO.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\ScoreDAO\\ScoreDAO.cs",
-              "RelativeToolTip": "EMT_API\\Interfaces\\ScoreDAO\\ScoreDAO.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwDIAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T06:37:15.244Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "FlashcardController.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\FlashCard\\FlashcardController.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Controllers\\FlashCard\\FlashcardController.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\FlashCard\\FlashcardController.cs",
-              "RelativeToolTip": "EMT_API\\Controllers\\FlashCard\\FlashcardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T13:27:52.792Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "TeacherReviewController.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Teacher\\TeacherReviewController.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Teacher\\TeacherReviewController.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Teacher\\TeacherReviewController.cs",
-              "RelativeToolTip": "EMT_API\\Controllers\\Teacher\\TeacherReviewController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T07:52:27.529Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "CreateTeacherReviewRequest.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\DTOs\\Score\\CreateTeacherReviewRequest.cs",
-              "RelativeDocumentMoniker": "EMT_API\\DTOs\\Score\\CreateTeacherReviewRequest.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\DTOs\\Score\\CreateTeacherReviewRequest.cs",
-              "RelativeToolTip": "EMT_API\\DTOs\\Score\\CreateTeacherReviewRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T07:49:22.895Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "AnswerTeacherReview.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Models\\AnswerTeacherReview.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Models\\AnswerTeacherReview.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Models\\AnswerTeacherReview.cs",
-              "RelativeToolTip": "EMT_API\\Models\\AnswerTeacherReview.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T13:25:59.111Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "Account.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Models\\Account.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Models\\Account.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Models\\Account.cs",
-              "RelativeToolTip": "EMT_API\\Models\\Account.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAcwCsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T13:16:18.326Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "AnswerAIReview.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Models\\AnswerAIReview.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Models\\AnswerAIReview.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Models\\AnswerAIReview.cs",
-              "RelativeToolTip": "EMT_API\\Models\\AnswerAIReview.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T13:25:49.62Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Auth\\AuthController.cs",
               "RelativeDocumentMoniker": "EMT_API\\Controllers\\Auth\\AuthController.cs",
               "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Auth\\AuthController.cs",
               "RelativeToolTip": "EMT_API\\Controllers\\Auth\\AuthController.cs",
-              "ViewState": "AgIAAGcAAAAAAAAAAAAwwHkAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAcwLIAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T16:06:37.855Z"
+              "WhenOpened": "2025-11-13T16:06:37.855Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\appsettings.json",
-              "RelativeDocumentMoniker": "EMT_API\\appsettings.json",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\appsettings.json",
-              "RelativeToolTip": "EMT_API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-08T12:29:24.681Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "QuizController.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Quiz\\QuizController.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Quiz\\QuizController.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Quiz\\QuizController.cs",
-              "RelativeToolTip": "EMT_API\\Controllers\\Quiz\\QuizController.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAmwF8AAAATAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Services\\UserService\\UserService.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Services\\UserService\\UserService.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Services\\UserService\\UserService.cs",
+              "RelativeToolTip": "EMT_API\\Services\\UserService\\UserService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T07:28:49.548Z"
+              "WhenOpened": "2026-02-27T07:42:09.271Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 7,
               "Title": "MembershipController.cs",
               "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Auth\\MembershipController.cs",
               "RelativeDocumentMoniker": "EMT_API\\Controllers\\Auth\\MembershipController.cs",
               "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Auth\\MembershipController.cs",
               "RelativeToolTip": "EMT_API\\Controllers\\Auth\\MembershipController.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAApwDwAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T13:23:36.138Z"
+              "WhenOpened": "2026-01-19T13:23:36.138Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "FlashcardDAO.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\FlashcardDAO\\FlashcardDAO.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Interfaces\\FlashcardDAO\\FlashcardDAO.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\FlashcardDAO\\FlashcardDAO.cs",
-              "RelativeToolTip": "EMT_API\\Interfaces\\FlashcardDAO\\FlashcardDAO.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCwAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T13:30:32.485Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "ITeacherScoreDAO.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\ScoreDAO\\ITeacherScoreDAO.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Interfaces\\ScoreDAO\\ITeacherScoreDAO.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\ScoreDAO\\ITeacherScoreDAO.cs",
-              "RelativeToolTip": "EMT_API\\Interfaces\\ScoreDAO\\ITeacherScoreDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T07:33:06.245Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "IFlashcardProgressDAO.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\FlashcardDAO\\IFlashcardProgressDAO.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Interfaces\\FlashcardDAO\\IFlashcardProgressDAO.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\FlashcardDAO\\IFlashcardProgressDAO.cs",
-              "RelativeToolTip": "EMT_API\\Interfaces\\FlashcardDAO\\IFlashcardProgressDAO.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA5wAkAAABWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T06:14:31.309Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "MembershipDAO.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\MembershipDAO\\MembershipDAO.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Interfaces\\MembershipDAO\\MembershipDAO.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\MembershipDAO\\MembershipDAO.cs",
-              "RelativeToolTip": "EMT_API\\Interfaces\\MembershipDAO\\MembershipDAO.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAcwBQAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T13:26:48.039Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "IFlashcardDAO.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\FlashcardDAO\\IFlashcardDAO.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Interfaces\\FlashcardDAO\\IFlashcardDAO.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\FlashcardDAO\\IFlashcardDAO.cs",
-              "RelativeToolTip": "EMT_API\\Interfaces\\FlashcardDAO\\IFlashcardDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T05:57:54.03Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "AISubmissionDAO.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\AIDAO\\AISubmissionDAO.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Interfaces\\AIDAO\\AISubmissionDAO.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\AIDAO\\AISubmissionDAO.cs",
-              "RelativeToolTip": "EMT_API\\Interfaces\\AIDAO\\AISubmissionDAO.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB4AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T07:35:03.557Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "AISubmission.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Models\\AISubmission.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Models\\AISubmission.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Models\\AISubmission.cs",
-              "RelativeToolTip": "EMT_API\\Models\\AISubmission.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA4wCYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T07:51:53.729Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "IAISubmissionDAO.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\AIDAO\\IAISubmissionDAO.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Interfaces\\AIDAO\\IAISubmissionDAO.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\AIDAO\\IAISubmissionDAO.cs",
-              "RelativeToolTip": "EMT_API\\Interfaces\\AIDAO\\IAISubmissionDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-23T07:28:30.569Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "TeacherScoreDAO.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\ScoreDAO\\TeacherScoreDAO.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Interfaces\\ScoreDAO\\TeacherScoreDAO.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\ScoreDAO\\TeacherScoreDAO.cs",
-              "RelativeToolTip": "EMT_API\\Interfaces\\ScoreDAO\\TeacherScoreDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T07:32:52.633Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "secrets.json",
-              "DocumentMoniker": "C:\\Users\\Dell\\AppData\\Roaming\\Microsoft\\UserSecrets\\9a3c482b-c937-496c-b973-31db6beae285\\secrets.json",
-              "ToolTip": "C:\\Users\\Dell\\AppData\\Roaming\\Microsoft\\UserSecrets\\9a3c482b-c937-496c-b973-31db6beae285\\secrets.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA+AAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\appsettings.json",
+              "RelativeDocumentMoniker": "EMT_API\\appsettings.json",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\appsettings.json",
+              "RelativeToolTip": "EMT_API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-08T12:28:22.086Z"
+              "WhenOpened": "2025-11-08T12:29:24.681Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "PaymentDAO.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\PaymentDAO\\PaymentDAO.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Interfaces\\PaymentDAO\\PaymentDAO.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\PaymentDAO\\PaymentDAO.cs",
-              "RelativeToolTip": "EMT_API\\Interfaces\\PaymentDAO\\PaymentDAO.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAwwEsAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T05:52:42.19Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "FlashcardSetDto.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\DTOs\\FlashCard\\FlashcardSetDto.cs",
-              "RelativeDocumentMoniker": "EMT_API\\DTOs\\FlashCard\\FlashcardSetDto.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\DTOs\\FlashCard\\FlashcardSetDto.cs",
-              "RelativeToolTip": "EMT_API\\DTOs\\FlashCard\\FlashcardSetDto.cs",
+              "DocumentIndex": 2,
+              "Title": "AIQuizController.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\AIExam\\AIQuizController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\AIExam\\AIQuizController.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\AIExam\\AIQuizController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\AIExam\\AIQuizController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T06:30:04.147Z"
+              "WhenOpened": "2025-11-11T16:03:26.079Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
-              "Title": "UpdateFlashcardProgressRequest.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\DTOs\\Progress\\UpdateFlashcardProgressRequest.cs",
-              "RelativeDocumentMoniker": "EMT_API\\DTOs\\Progress\\UpdateFlashcardProgressRequest.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\DTOs\\Progress\\UpdateFlashcardProgressRequest.cs",
-              "RelativeToolTip": "EMT_API\\DTOs\\Progress\\UpdateFlashcardProgressRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "SystemExamController.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Admin\\SystemExamController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Admin\\SystemExamController.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Admin\\SystemExamController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\Admin\\SystemExamController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T06:58:08.508Z"
+              "WhenOpened": "2026-02-27T07:02:09.109Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
-              "Title": "CreateFlashcardHisstoryRequest.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\DTOs\\Progress\\CreateFlashcardHisstoryRequest.cs",
-              "RelativeDocumentMoniker": "EMT_API\\DTOs\\Progress\\CreateFlashcardHisstoryRequest.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\DTOs\\Progress\\CreateFlashcardHisstoryRequest.cs",
-              "RelativeToolTip": "EMT_API\\DTOs\\Progress\\CreateFlashcardHisstoryRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Program.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Program.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Program.cs",
+              "RelativeToolTip": "EMT_API\\Program.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAgwMIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T07:06:26.693Z"
+              "WhenOpened": "2025-11-13T08:10:17.575Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
-              "Title": "FlashcardHistoryDto.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\DTOs\\Progress\\FlashcardHistoryDto.cs",
-              "RelativeDocumentMoniker": "EMT_API\\DTOs\\Progress\\FlashcardHistoryDto.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\DTOs\\Progress\\FlashcardHistoryDto.cs",
-              "RelativeToolTip": "EMT_API\\DTOs\\Progress\\FlashcardHistoryDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Repositories\\UserRepository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Repositories\\UserRepository\\UserRepository.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Repositories\\UserRepository\\UserRepository.cs",
+              "RelativeToolTip": "EMT_API\\Repositories\\UserRepository\\UserRepository.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAqwJAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T07:08:33.255Z"
+              "WhenOpened": "2026-02-27T06:57:34.81Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 12,
+              "Title": "AdminFeedbackController.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Admin\\AdminFeedbackController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Admin\\AdminFeedbackController.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Admin\\AdminFeedbackController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\Admin\\AdminFeedbackController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T06:38:11.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\IUserRepository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Interfaces\\IUserRepository\\IUserRepository.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\IUserRepository\\IUserRepository.cs",
+              "RelativeToolTip": "EMT_API\\Interfaces\\IUserRepository\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T06:56:54.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IFeedbackRepository.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\FeedbackDAO\\IFeedbackRepository.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Interfaces\\FeedbackDAO\\IFeedbackRepository.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\FeedbackDAO\\IFeedbackRepository.cs",
+              "RelativeToolTip": "EMT_API\\Interfaces\\FeedbackDAO\\IFeedbackRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T07:38:21.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SubscriptionPlanManagementController.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Admin\\SubscriptionPlanManagementController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Admin\\SubscriptionPlanManagementController.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Admin\\SubscriptionPlanManagementController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\Admin\\SubscriptionPlanManagementController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T07:02:12.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TransactionManagementController.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Admin\\TransactionManagementController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Admin\\TransactionManagementController.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Admin\\TransactionManagementController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\Admin\\TransactionManagementController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T07:02:01.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminFlashcardController.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Admin\\AdminFlashcardController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Admin\\AdminFlashcardController.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Admin\\AdminFlashcardController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\Admin\\AdminFlashcardController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:18:47.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CourseManagementController.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Admin\\CourseManagementController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Admin\\CourseManagementController.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Admin\\CourseManagementController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\Admin\\CourseManagementController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:42:09.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Admin\\DashboardController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Admin\\DashboardController.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Admin\\DashboardController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\Admin\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T07:34:53.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "QuizAdminController.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Admin\\QuizAdminController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Admin\\QuizAdminController.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Admin\\QuizAdminController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\Admin\\QuizAdminController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T09:09:07.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ScoreManagementController.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Admin\\ScoreManagementController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Admin\\ScoreManagementController.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Admin\\ScoreManagementController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\Admin\\ScoreManagementController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:16:22.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AIWritingController.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\AIExam\\AIWritingController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\AIExam\\AIWritingController.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\AIExam\\AIWritingController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\AIExam\\AIWritingController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAwwEwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T09:02:18.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AISpeakingController.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\AIExam\\AISpeakingController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\AIExam\\AISpeakingController.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\AIExam\\AISpeakingController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\AIExam\\AISpeakingController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T09:01:54.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IDashboardDAO.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\DashboardDAO\\IDashboardDAO.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Interfaces\\DashboardDAO\\IDashboardDAO.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\DashboardDAO\\IDashboardDAO.cs",
+              "RelativeToolTip": "EMT_API\\Interfaces\\DashboardDAO\\IDashboardDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T07:34:03.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DashboardDAO.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\DashboardDAO\\DashboardDAO.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Interfaces\\DashboardDAO\\DashboardDAO.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\DashboardDAO\\DashboardDAO.cs",
+              "RelativeToolTip": "EMT_API\\Interfaces\\DashboardDAO\\DashboardDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T07:34:00.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UploadController.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Common\\UploadController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Common\\UploadController.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Common\\UploadController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\Common\\UploadController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T14:52:27.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Course\\CourseController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Course\\CourseController.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Course\\CourseController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\Course\\CourseController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T07:28:46.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "FlashcardProgressController.cs",
               "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\FlashCard\\FlashcardProgressController.cs",
               "RelativeDocumentMoniker": "EMT_API\\Controllers\\FlashCard\\FlashcardProgressController.cs",
@@ -1120,7 +763,653 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FlashcardController.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\FlashCard\\FlashcardController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\FlashCard\\FlashcardController.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\FlashCard\\FlashcardController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\FlashCard\\FlashcardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:27:52.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FeedbackRepository.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\FeedbackDAO\\FeedbackRepository.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Interfaces\\FeedbackDAO\\FeedbackRepository.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\FeedbackDAO\\FeedbackRepository.cs",
+              "RelativeToolTip": "EMT_API\\Interfaces\\FeedbackDAO\\FeedbackRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:30:45.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GoogleDriveController.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\GoogleDrive\\GoogleDriveController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\GoogleDrive\\GoogleDriveController.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\GoogleDrive\\GoogleDriveController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\GoogleDrive\\GoogleDriveController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T08:05:03.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Payment\\PaymentController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Payment\\PaymentController.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Payment\\PaymentController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\Payment\\PaymentController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T08:05:10.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Profile\\ProfileController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Profile\\ProfileController.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Profile\\ProfileController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\Profile\\ProfileController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T08:05:16.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PlanController.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Public\\PlanController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Public\\PlanController.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Public\\PlanController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\Public\\PlanController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T07:46:40.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "QuizController.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Quiz\\QuizController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Quiz\\QuizController.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Quiz\\QuizController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\Quiz\\QuizController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAF8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T07:28:49.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AttemptsController.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Quiz\\AttemptsController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Quiz\\AttemptsController.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Quiz\\AttemptsController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\Quiz\\AttemptsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T07:08:07.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TeacherReviewController.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Teacher\\TeacherReviewController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Teacher\\TeacherReviewController.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Teacher\\TeacherReviewController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\Teacher\\TeacherReviewController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T07:52:27.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "TeacherQuizController.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Teacher\\TeacherQuizController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Teacher\\TeacherQuizController.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Teacher\\TeacherQuizController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\Teacher\\TeacherQuizController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T07:07:52.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "TeacherFlashcardController.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Teacher\\TeacherFlashcardController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Teacher\\TeacherFlashcardController.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Teacher\\TeacherFlashcardController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\Teacher\\TeacherFlashcardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIUAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:27:59.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "TeacherFeedbackController.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Teacher\\TeacherFeedbackController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Teacher\\TeacherFeedbackController.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Teacher\\TeacherFeedbackController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\Teacher\\TeacherFeedbackController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T07:20:28.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "TeacherCourseController.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Teacher\\TeacherCourseController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Teacher\\TeacherCourseController.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Teacher\\TeacherCourseController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\Teacher\\TeacherCourseController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:17:22.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "VideoController.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Video\\VideoController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Video\\VideoController.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Video\\VideoController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\Video\\VideoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T04:27:09.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "TeacherInformationController.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Teacher\\TeacherInformationController.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Teacher\\TeacherInformationController.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Teacher\\TeacherInformationController.cs",
+              "RelativeToolTip": "EMT_API\\Controllers\\Teacher\\TeacherInformationController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAFQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T09:34:59.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ICourseDAO.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\CourseDAO\\ICourseDAO.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Interfaces\\CourseDAO\\ICourseDAO.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\CourseDAO\\ICourseDAO.cs",
+              "RelativeToolTip": "EMT_API\\Interfaces\\CourseDAO\\ICourseDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T06:55:19.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ISubscriptionPlanDAO.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\SubscriptionPlanDAO\\ISubscriptionPlanDAO.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Interfaces\\SubscriptionPlanDAO\\ISubscriptionPlanDAO.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\SubscriptionPlanDAO\\ISubscriptionPlanDAO.cs",
+              "RelativeToolTip": "EMT_API\\Interfaces\\SubscriptionPlanDAO\\ISubscriptionPlanDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T05:57:46.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IAISubmissionDAO.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\AIDAO\\IAISubmissionDAO.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Interfaces\\AIDAO\\IAISubmissionDAO.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\AIDAO\\IAISubmissionDAO.cs",
+              "RelativeToolTip": "EMT_API\\Interfaces\\AIDAO\\IAISubmissionDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T07:28:30.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CourseDAO.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\CourseDAO\\CourseDAO.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Interfaces\\CourseDAO\\CourseDAO.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\CourseDAO\\CourseDAO.cs",
+              "RelativeToolTip": "EMT_API\\Interfaces\\CourseDAO\\CourseDAO.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAwE8AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:28:17.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "FeedbackService.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Services\\FeedbackService\\FeedbackService.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Services\\FeedbackService\\FeedbackService.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Services\\FeedbackService\\FeedbackService.cs",
+              "RelativeToolTip": "EMT_API\\Services\\FeedbackService\\FeedbackService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T07:21:38.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "SubscriptionPlanDAO.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\SubscriptionPlanDAO\\SubscriptionPlanDAO.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Interfaces\\SubscriptionPlanDAO\\SubscriptionPlanDAO.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\SubscriptionPlanDAO\\SubscriptionPlanDAO.cs",
+              "RelativeToolTip": "EMT_API\\Interfaces\\SubscriptionPlanDAO\\SubscriptionPlanDAO.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAlwD0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T05:55:46.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AIQuizService.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Services\\AIExam\\AIQuizService.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Services\\AIExam\\AIQuizService.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Services\\AIExam\\AIQuizService.cs",
+              "RelativeToolTip": "EMT_API\\Services\\AIExam\\AIQuizService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAwwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T07:09:57.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IAIQuizService.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Services\\AIExam\\IAIQuizService.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Services\\AIExam\\IAIQuizService.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Services\\AIExam\\IAIQuizService.cs",
+              "RelativeToolTip": "EMT_API\\Services\\AIExam\\IAIQuizService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T07:09:14.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "GoogleDriveService.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\ExternalServices\\GoogleDriveService.cs",
+              "RelativeDocumentMoniker": "EMT_API\\ExternalServices\\GoogleDriveService.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\ExternalServices\\GoogleDriveService.cs",
+              "RelativeToolTip": "EMT_API\\ExternalServices\\GoogleDriveService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T07:04:20.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CloudflareService.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\ExternalServices\\CloudflareService.cs",
+              "RelativeDocumentMoniker": "EMT_API\\ExternalServices\\CloudflareService.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\ExternalServices\\CloudflareService.cs",
+              "RelativeToolTip": "EMT_API\\ExternalServices\\CloudflareService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T07:04:14.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AIWritingService.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\ExternalServices\\AIWritingService.cs",
+              "RelativeDocumentMoniker": "EMT_API\\ExternalServices\\AIWritingService.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\ExternalServices\\AIWritingService.cs",
+              "RelativeToolTip": "EMT_API\\ExternalServices\\AIWritingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T07:04:04.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "AIQuizExternal.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\ExternalServices\\AIQuizExternal.cs",
+              "RelativeDocumentMoniker": "EMT_API\\ExternalServices\\AIQuizExternal.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\ExternalServices\\AIQuizExternal.cs",
+              "RelativeToolTip": "EMT_API\\ExternalServices\\AIQuizExternal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T07:03:56.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "AIReviewDAO.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\AIDAO\\AIReviewDAO.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Interfaces\\AIDAO\\AIReviewDAO.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\AIDAO\\AIReviewDAO.cs",
+              "RelativeToolTip": "EMT_API\\Interfaces\\AIDAO\\AIReviewDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T07:48:56.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "AIPromptDAO.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\AIDAO\\AIPromptDAO.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Interfaces\\AIDAO\\AIPromptDAO.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\AIDAO\\AIPromptDAO.cs",
+              "RelativeToolTip": "EMT_API\\Interfaces\\AIDAO\\AIPromptDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T07:39:00.322Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 59,
+              "Title": "IAIPromptDAO.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\AIDAO\\IAIPromptDAO.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Interfaces\\AIDAO\\IAIPromptDAO.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\AIDAO\\IAIPromptDAO.cs",
+              "RelativeToolTip": "EMT_API\\Interfaces\\AIDAO\\IAIPromptDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T07:38:35.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "PayOSService.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\ExternalServices\\PayOSService.cs",
+              "RelativeDocumentMoniker": "EMT_API\\ExternalServices\\PayOSService.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\ExternalServices\\PayOSService.cs",
+              "RelativeToolTip": "EMT_API\\ExternalServices\\PayOSService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T06:28:42.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "IAIReviewDAO.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\AIDAO\\IAIReviewDAO.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Interfaces\\AIDAO\\IAIReviewDAO.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\AIDAO\\IAIReviewDAO.cs",
+              "RelativeToolTip": "EMT_API\\Interfaces\\AIDAO\\IAIReviewDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T07:48:34.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "AISpeakingService.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\ExternalServices\\AISpeakingService.cs",
+              "RelativeDocumentMoniker": "EMT_API\\ExternalServices\\AISpeakingService.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\ExternalServices\\AISpeakingService.cs",
+              "RelativeToolTip": "EMT_API\\ExternalServices\\AISpeakingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T13:25:56.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "FlashcardProgressDAO.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\FlashcardDAO\\FlashcardProgressDAO.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Interfaces\\FlashcardDAO\\FlashcardProgressDAO.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\FlashcardDAO\\FlashcardProgressDAO.cs",
+              "RelativeToolTip": "EMT_API\\Interfaces\\FlashcardDAO\\FlashcardProgressDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:15:28.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "TeacherReviewRespone.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\DTOs\\Score\\TeacherReviewRespone.cs",
+              "RelativeDocumentMoniker": "EMT_API\\DTOs\\Score\\TeacherReviewRespone.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\DTOs\\Score\\TeacherReviewRespone.cs",
+              "RelativeToolTip": "EMT_API\\DTOs\\Score\\TeacherReviewRespone.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T07:50:11.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ScoreDAO.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\ScoreDAO\\ScoreDAO.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Interfaces\\ScoreDAO\\ScoreDAO.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\ScoreDAO\\ScoreDAO.cs",
+              "RelativeToolTip": "EMT_API\\Interfaces\\ScoreDAO\\ScoreDAO.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwDIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:37:15.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "CreateTeacherReviewRequest.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\DTOs\\Score\\CreateTeacherReviewRequest.cs",
+              "RelativeDocumentMoniker": "EMT_API\\DTOs\\Score\\CreateTeacherReviewRequest.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\DTOs\\Score\\CreateTeacherReviewRequest.cs",
+              "RelativeToolTip": "EMT_API\\DTOs\\Score\\CreateTeacherReviewRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T07:49:22.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "AnswerTeacherReview.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Models\\AnswerTeacherReview.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Models\\AnswerTeacherReview.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Models\\AnswerTeacherReview.cs",
+              "RelativeToolTip": "EMT_API\\Models\\AnswerTeacherReview.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:25:59.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Models\\Account.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Models\\Account.cs",
+              "RelativeToolTip": "EMT_API\\Models\\Account.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:16:18.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "AnswerAIReview.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Models\\AnswerAIReview.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Models\\AnswerAIReview.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Models\\AnswerAIReview.cs",
+              "RelativeToolTip": "EMT_API\\Models\\AnswerAIReview.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:25:49.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "FlashcardDAO.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\FlashcardDAO\\FlashcardDAO.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Interfaces\\FlashcardDAO\\FlashcardDAO.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\FlashcardDAO\\FlashcardDAO.cs",
+              "RelativeToolTip": "EMT_API\\Interfaces\\FlashcardDAO\\FlashcardDAO.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:30:32.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ITeacherScoreDAO.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\ScoreDAO\\ITeacherScoreDAO.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Interfaces\\ScoreDAO\\ITeacherScoreDAO.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\ScoreDAO\\ITeacherScoreDAO.cs",
+              "RelativeToolTip": "EMT_API\\Interfaces\\ScoreDAO\\ITeacherScoreDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T07:33:06.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "IFlashcardProgressDAO.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\FlashcardDAO\\IFlashcardProgressDAO.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Interfaces\\FlashcardDAO\\IFlashcardProgressDAO.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\FlashcardDAO\\IFlashcardProgressDAO.cs",
+              "RelativeToolTip": "EMT_API\\Interfaces\\FlashcardDAO\\IFlashcardProgressDAO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA5wAkAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:14:31.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "MembershipDAO.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\MembershipDAO\\MembershipDAO.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Interfaces\\MembershipDAO\\MembershipDAO.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\MembershipDAO\\MembershipDAO.cs",
+              "RelativeToolTip": "EMT_API\\Interfaces\\MembershipDAO\\MembershipDAO.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAcwBQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:26:48.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "IFlashcardDAO.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\FlashcardDAO\\IFlashcardDAO.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Interfaces\\FlashcardDAO\\IFlashcardDAO.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\FlashcardDAO\\IFlashcardDAO.cs",
+              "RelativeToolTip": "EMT_API\\Interfaces\\FlashcardDAO\\IFlashcardDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T05:57:54.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "AISubmissionDAO.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\AIDAO\\AISubmissionDAO.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Interfaces\\AIDAO\\AISubmissionDAO.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\AIDAO\\AISubmissionDAO.cs",
+              "RelativeToolTip": "EMT_API\\Interfaces\\AIDAO\\AISubmissionDAO.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T07:35:03.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "AISubmission.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Models\\AISubmission.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Models\\AISubmission.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Models\\AISubmission.cs",
+              "RelativeToolTip": "EMT_API\\Models\\AISubmission.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA4wCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T07:51:53.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "TeacherScoreDAO.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\ScoreDAO\\TeacherScoreDAO.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Interfaces\\ScoreDAO\\TeacherScoreDAO.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\ScoreDAO\\TeacherScoreDAO.cs",
+              "RelativeToolTip": "EMT_API\\Interfaces\\ScoreDAO\\TeacherScoreDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T07:32:52.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\AppData\\Roaming\\Microsoft\\UserSecrets\\9a3c482b-c937-496c-b973-31db6beae285\\secrets.json",
+              "ToolTip": "C:\\Users\\Dell\\AppData\\Roaming\\Microsoft\\UserSecrets\\9a3c482b-c937-496c-b973-31db6beae285\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-08T12:28:22.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "PaymentDAO.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\PaymentDAO\\PaymentDAO.cs",
+              "RelativeDocumentMoniker": "EMT_API\\Interfaces\\PaymentDAO\\PaymentDAO.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\PaymentDAO\\PaymentDAO.cs",
+              "RelativeToolTip": "EMT_API\\Interfaces\\PaymentDAO\\PaymentDAO.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwEsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T05:52:42.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "FlashcardSetDto.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\DTOs\\FlashCard\\FlashcardSetDto.cs",
+              "RelativeDocumentMoniker": "EMT_API\\DTOs\\FlashCard\\FlashcardSetDto.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\DTOs\\FlashCard\\FlashcardSetDto.cs",
+              "RelativeToolTip": "EMT_API\\DTOs\\FlashCard\\FlashcardSetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:30:04.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "UpdateFlashcardProgressRequest.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\DTOs\\Progress\\UpdateFlashcardProgressRequest.cs",
+              "RelativeDocumentMoniker": "EMT_API\\DTOs\\Progress\\UpdateFlashcardProgressRequest.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\DTOs\\Progress\\UpdateFlashcardProgressRequest.cs",
+              "RelativeToolTip": "EMT_API\\DTOs\\Progress\\UpdateFlashcardProgressRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:58:08.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "CreateFlashcardHisstoryRequest.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\DTOs\\Progress\\CreateFlashcardHisstoryRequest.cs",
+              "RelativeDocumentMoniker": "EMT_API\\DTOs\\Progress\\CreateFlashcardHisstoryRequest.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\DTOs\\Progress\\CreateFlashcardHisstoryRequest.cs",
+              "RelativeToolTip": "EMT_API\\DTOs\\Progress\\CreateFlashcardHisstoryRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T07:06:26.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "FlashcardHistoryDto.cs",
+              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\DTOs\\Progress\\FlashcardHistoryDto.cs",
+              "RelativeDocumentMoniker": "EMT_API\\DTOs\\Progress\\FlashcardHistoryDto.cs",
+              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\DTOs\\Progress\\FlashcardHistoryDto.cs",
+              "RelativeToolTip": "EMT_API\\DTOs\\Progress\\FlashcardHistoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T07:08:33.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
               "Title": "QuizDAO.cs",
               "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\QuizDAO\\QuizDAO.cs",
               "RelativeDocumentMoniker": "EMT_API\\Interfaces\\QuizDAO\\QuizDAO.cs",
@@ -1132,7 +1421,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 80,
               "Title": "FlashcardProgressDto.cs",
               "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\DTOs\\Progress\\FlashcardProgressDto.cs",
               "RelativeDocumentMoniker": "EMT_API\\DTOs\\Progress\\FlashcardProgressDto.cs",
@@ -1144,7 +1433,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 79,
               "Title": "CreatePaymentRequest.cs",
               "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\DTOs\\Payment\\CreatePaymentRequest.cs",
               "RelativeDocumentMoniker": "EMT_API\\DTOs\\Payment\\CreatePaymentRequest.cs",
@@ -1156,7 +1445,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 84,
               "Title": "LearnFlashcardRequest.cs",
               "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\DTOs\\Progress\\LearnFlashcardRequest.cs",
               "RelativeDocumentMoniker": "EMT_API\\DTOs\\Progress\\LearnFlashcardRequest.cs",
@@ -1168,7 +1457,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 85,
               "Title": "FlashcardHistory.cs",
               "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Models\\FlashcardHistory.cs",
               "RelativeDocumentMoniker": "EMT_API\\Models\\FlashcardHistory.cs",
@@ -1180,43 +1469,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
-              "Title": "CourseController.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Course\\CourseController.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Course\\CourseController.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Course\\CourseController.cs",
-              "RelativeToolTip": "EMT_API\\Controllers\\Course\\CourseController.cs",
-              "ViewState": "AgIAAIwAAAAAAAAAAAAIwMsAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T07:28:46.43Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 69,
-              "Title": "QuizAdminController.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Admin\\QuizAdminController.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Admin\\QuizAdminController.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Admin\\QuizAdminController.cs",
-              "RelativeToolTip": "EMT_API\\Controllers\\Admin\\QuizAdminController.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAA9wCgAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T09:09:07.007Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 70,
-              "Title": "PlanController.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Public\\PlanController.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Public\\PlanController.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Public\\PlanController.cs",
-              "RelativeToolTip": "EMT_API\\Controllers\\Public\\PlanController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwBwAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T07:46:40.156Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 87,
               "Title": "AIPrompt.cs",
               "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Models\\AIPrompt.cs",
               "RelativeDocumentMoniker": "EMT_API\\Models\\AIPrompt.cs",
@@ -1228,7 +1481,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 86,
               "Title": "AISpeakingDTO.cs",
               "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\DTOs\\AITest\\AISpeakingDTO.cs",
               "RelativeDocumentMoniker": "EMT_API\\DTOs\\AITest\\AISpeakingDTO.cs",
@@ -1240,7 +1493,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 88,
               "Title": "AIWritingDTO.cs",
               "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\DTOs\\AITest\\AIWritingDTO.cs",
               "RelativeDocumentMoniker": "EMT_API\\DTOs\\AITest\\AIWritingDTO.cs",
@@ -1252,7 +1505,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 90,
               "Title": "Answer.cs",
               "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Models\\Answer.cs",
               "RelativeDocumentMoniker": "EMT_API\\Models\\Answer.cs",
@@ -1264,7 +1517,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 89,
               "Title": "Course.cs",
               "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Models\\Course.cs",
               "RelativeDocumentMoniker": "EMT_API\\Models\\Course.cs",
@@ -1276,7 +1529,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 91,
               "Title": "FlashcardProgress.cs",
               "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Models\\FlashcardProgress.cs",
               "RelativeDocumentMoniker": "EMT_API\\Models\\FlashcardProgress.cs",
@@ -1288,7 +1541,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 93,
               "Title": "EMTDbContext.cs",
               "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Data\\EMTDbContext.cs",
               "RelativeDocumentMoniker": "EMT_API\\Data\\EMTDbContext.cs",
@@ -1300,7 +1553,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 94,
               "Title": "Feedback.cs",
               "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Models\\Feedback.cs",
               "RelativeDocumentMoniker": "EMT_API\\Models\\Feedback.cs",
@@ -1312,7 +1565,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 92,
               "Title": "Attempt.cs",
               "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Models\\Attempt.cs",
               "RelativeDocumentMoniker": "EMT_API\\Models\\Attempt.cs",
@@ -1324,7 +1577,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 95,
               "Title": "Asset.cs",
               "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Models\\Asset.cs",
               "RelativeDocumentMoniker": "EMT_API\\Models\\Asset.cs",
@@ -1336,7 +1589,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 96,
               "Title": "FlashcardSet.cs",
               "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Models\\FlashcardSet.cs",
               "RelativeDocumentMoniker": "EMT_API\\Models\\FlashcardSet.cs",
@@ -1348,7 +1601,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 97,
               "Title": "FlashcardItem.cs",
               "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Models\\FlashcardItem.cs",
               "RelativeDocumentMoniker": "EMT_API\\Models\\FlashcardItem.cs",
@@ -1360,19 +1613,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
-              "Title": "ScoreManagementController.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Admin\\ScoreManagementController.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Admin\\ScoreManagementController.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Admin\\ScoreManagementController.cs",
-              "RelativeToolTip": "EMT_API\\Controllers\\Admin\\ScoreManagementController.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAUwDIAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T06:16:22.009Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 99,
               "Title": "RequestLog.cs",
               "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Models\\RequestLog.cs",
               "RelativeDocumentMoniker": "EMT_API\\Models\\RequestLog.cs",
@@ -1384,7 +1625,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 100,
               "Title": "SubscriptionPlan.cs",
               "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Models\\SubscriptionPlan.cs",
               "RelativeDocumentMoniker": "EMT_API\\Models\\SubscriptionPlan.cs",
@@ -1396,7 +1637,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 98,
               "Title": "CourseChapter.cs",
               "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Models\\CourseChapter.cs",
               "RelativeDocumentMoniker": "EMT_API\\Models\\CourseChapter.cs",
@@ -1408,7 +1649,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 101,
               "Title": "CourseVideo.cs",
               "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Models\\CourseVideo.cs",
               "RelativeDocumentMoniker": "EMT_API\\Models\\CourseVideo.cs",
@@ -1420,7 +1661,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 102,
               "Title": "IMembershipDAO.cs",
               "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Interfaces\\MembershipDAO\\IMembershipDAO.cs",
               "RelativeDocumentMoniker": "EMT_API\\Interfaces\\MembershipDAO\\IMembershipDAO.cs",
@@ -1432,19 +1673,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
-              "Title": "VideoController.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Video\\VideoController.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Controllers\\Video\\VideoController.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Controllers\\Video\\VideoController.cs",
-              "RelativeToolTip": "EMT_API\\Controllers\\Video\\VideoController.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAowBkAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T04:27:09.867Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 90,
+              "DocumentIndex": 103,
               "Title": "EMT_API.csproj",
               "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\EMT_API.csproj",
               "RelativeDocumentMoniker": "EMT_API\\EMT_API.csproj",
@@ -1453,25 +1682,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-11-08T12:14:12.957Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IFeedbackService.cs",
-              "DocumentMoniker": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Services\\FeedbackService\\IFeedbackService.cs",
-              "RelativeDocumentMoniker": "EMT_API\\Services\\FeedbackService\\IFeedbackService.cs",
-              "ToolTip": "D:\\FPT.exe6\\server\\SuperProject\\server\\EMT_API\\Services\\FeedbackService\\IFeedbackService.cs",
-              "RelativeToolTip": "EMT_API\\Services\\FeedbackService\\IFeedbackService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T07:21:25.793Z",
-              "EditorCaption": ""
             }
           ]
         }

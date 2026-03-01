@@ -7,7 +7,6 @@ using EMT_API.DAOs.MembershipDAO;
 using EMT_API.DAOs.PaymentDAO;
 using EMT_API.DAOs.ScoreDAO;
 using EMT_API.DAOs.SubscriptionPlanDAO;
-using EMT_API.DAOs.UserDAO;
 using EMT_API.Data;
 using EMT_API.DTOs.Public;
 using EMT_API.Middlewares;
@@ -24,7 +23,11 @@ using System.Reflection;
 using System.Security.Claims;
 using System.Text;
 using EMT_API.Services.FeedbackService;
-
+using EMT_API.Repositories.UserRepository;
+using EMT_API.Interfaces;
+using EMT_API.Services;
+using EMT_API.Services.UserService;
+using EMT_API.Interfaces.IUserRepository;
 
 namespace EMT_API
 {
@@ -134,7 +137,8 @@ namespace EMT_API
             builder.Services.AddAuthorization();
 
             // ===== Repository Services =====
-            builder.Services.AddScoped<IUserDAO, UserDAO>();
+            builder.Services.AddScoped<IUserRepository, UserRepository>();
+            builder.Services.AddScoped<IUserService, UserService>();
             builder.Services.AddScoped<IFlashcardDAO, FlashcardDAO>();
             builder.Services.AddScoped<ICourseDAO, CourseDAO>();
             builder.Services.AddScoped<IQuizDAO, QuizDAO>();
