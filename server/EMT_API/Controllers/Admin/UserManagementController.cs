@@ -2,9 +2,10 @@
 using EMT_API.DTOs.Auth;
 using EMT_API.Models;
 using EMT_API.Security;
-using EMT_API.DAOs.UserDAO;
+
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using EMT_API.Services.UserService;
 
 namespace EMT_API.Controllers.AdminSide;
 
@@ -13,11 +14,11 @@ namespace EMT_API.Controllers.AdminSide;
 [Authorize(Roles = "ADMIN")]
 public class UserManagementController : ControllerBase
 {
-    private readonly IUserDAO _dao;
+    private readonly IUserService _userService;
 
-    public UserManagementController(IUserDAO dao)
+    public UserManagementController(IUserService userService)
     {
-        _dao = dao;
+        _userService = userService;
     }
 
     // ---------------------------
@@ -30,7 +31,7 @@ public class UserManagementController : ControllerBase
         if (!validRoles.Contains(req.Role.ToUpper()))
             return BadRequest(new { message = "Invalid role! Must be STUDENT, TEACHER, or ADMIN." });
 
-        if (await _dao.IsEmailExistsAsync(req.Email))
+        if (await _userService.IsEmailExistsAsync(req.Email))
             return Conflict(new { message = "Email already exists!" });
 
         var acc = new Account
@@ -43,19 +44,19 @@ public class UserManagementController : ControllerBase
             CreateAt = DateTime.UtcNow
         };
 
-        await _dao.CreateAccountAsync(acc);
+        await _userService.CreateAccountAsync(acc);
 
         // Nếu là STUDENT hoặc TEACHER → tạo UserDetail
         if (req.Role.Equals("STUDENT", StringComparison.OrdinalIgnoreCase) ||
             req.Role.Equals("TEACHER", StringComparison.OrdinalIgnoreCase))
         {
-            await _dao.CreateUserDetailAsync(acc.AccountID);
+            await _userService.CreateUserDetailAsync(acc.AccountID);
         }
 
         // Nếu là TEACHER → tạo Teacher record
         if (req.Role.Equals("TEACHER", StringComparison.OrdinalIgnoreCase))
         {
-            await _dao.CreateTeacherAsync(acc.AccountID, req.Description, req.CertJson);
+            await _userService.CreateTeacherAsync(acc.AccountID, req.Description, req.CertJson);
         }
 
         return Ok(new
@@ -74,7 +75,7 @@ public class UserManagementController : ControllerBase
     [HttpGet]
     public async Task<IActionResult> GetAllUser()
     {
-        var users = await _dao.GetAllUsersAsync();
+        var users = await _userService.GetAllUsersAsync();
         var data = users.Select(a => new
         {
             a.AccountID,
@@ -92,7 +93,7 @@ public class UserManagementController : ControllerBase
     [HttpGet("students")]
     public async Task<IActionResult> GetAllStudents()
     {
-        var students = await _dao.GetAllStudentsAsync();
+        var students = await _userService.GetAllStudentsAsync();
         return Ok(students.Select(a => new
         {
             a.AccountID,
@@ -109,7 +110,7 @@ public class UserManagementController : ControllerBase
     [HttpGet("teachers")]
     public async Task<IActionResult> GetAllTeachers()
     {
-        var teachers = await _dao.GetAllTeachersAsync();
+        var teachers = await _userService.GetAllTeachersAsync();
         return Ok(teachers.Select(a => new
         {
             a.AccountID,
@@ -126,7 +127,7 @@ public class UserManagementController : ControllerBase
     [HttpPut("{id}/lock")]
     public async Task<IActionResult> LockUser(int id)
     {
-        var acc = await _dao.LockUserAsync(id);
+        var acc = await _userService.LockUserAsync(id);
         if (acc == null)
             return NotFound("User not found!");
 
@@ -139,7 +140,7 @@ public class UserManagementController : ControllerBase
     [HttpPut("{id}/unlock")]
     public async Task<IActionResult> UnlockUser(int id)
     {
-        var acc = await _dao.UnlockUserAsync(id);
+        var acc = await _userService.UnlockUserAsync(id);
         if (acc == null)
             return NotFound("User not found!");
 
@@ -152,7 +153,7 @@ public class UserManagementController : ControllerBase
     [HttpGet("search")]
     public async Task<IActionResult> SearchUsers([FromQuery] string? q, [FromQuery] string? role, [FromQuery] string? status)
     {
-        var results = await _dao.SearchUsersAsync(q, role, status);
+        var results = await _userService.SearchUsersAsync(q, role, status);
         return Ok(results.Select(u => new
         {
             u.AccountID,
@@ -173,7 +174,7 @@ public class UserManagementController : ControllerBase
         if (!validRoles.Contains(req.Role.ToUpper()))
             return BadRequest(new { message = "Invalid role. Role must be ADMIN, TEACHER, or STUDENT." });
 
-        var user = await _dao.AssignRoleAsync(req.UserId, req.Role.ToUpper());
+        var user = await _userService.AssignRoleAsync(req.UserId, req.Role.ToUpper());
         if (user == null)
             return NotFound(new { message = "User not found." });
 

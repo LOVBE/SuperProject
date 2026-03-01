@@ -1,5 +1,4 @@
-﻿using EMT_API.DAOs.UserDAO;
-using EMT_API.Data;
+﻿using EMT_API.Data;
 using EMT_API.DTOs.AITest;
 using EMT_API.ExternalServices;
 using EMT_API.Services;
